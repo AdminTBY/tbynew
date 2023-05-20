@@ -1,0 +1,33 @@
+2023-05-01T07:46:25+00:00 NOTICE order.member.updated :: Updated Mateuslutumba487@gmail.com subscriber status to subscribed and language to 
+2023-05-01T07:46:25+00:00 NOTICE order_submit.success :: updateStoreOrder :: #62937 :: email: Mateuslutumba487@gmail.com
+2023-05-01T07:46:26+00:00 NOTICE member.sync :: ir.czenkosve.tl.ana.s2.0.3.0@gmail.com is Pending Double OptIn
+2023-05-01T07:46:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #62959
+2023-05-01T07:46:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #62960
+2023-05-01T07:46:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #62961
+2023-05-01T07:46:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #62954
+2023-05-01T07:46:29+00:00 NOTICE abandoned_cart.success :: email: ussama@witsglobal.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=b6c4f6f942d5b1a67d212b7596d8bd72
+2023-05-01T07:46:29+00:00 NOTICE cart.member.updated :: Updated ussama@witsglobal.com subscriber status to subscribed and language to en
+2023-05-01T07:46:35+00:00 NOTICE order.member.updated :: Updated amr.talaat20@gmail.com subscriber status to pending and language to en
+2023-05-01T07:46:35+00:00 NOTICE order_submit.success :: addStoreOrder :: #62990 :: email: amr.talaat20@gmail.com :: landing site https://thebusinessyear.com/
+2023-05-01T07:46:35+00:00 NOTICE abandoned_cart.success :: email: mildred_vl@hotmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=6eb98fa7f565bef29bc08a993964ae9e
+2023-05-01T07:46:36+00:00 NOTICE cart.member.updated :: Updated mildred_vl@hotmail.com subscriber status to pending and language to en
+2023-05-01T07:46:40+00:00 NOTICE order.member.updated :: Updated mildred_vl@hotmail.com subscriber status to pending and language to en
+2023-05-01T07:46:40+00:00 NOTICE order_submit.success :: addStoreOrder :: #62991 :: email: mildred_vl@hotmail.com :: landing site https://thebusinessyear.com/ :: abandoned cart deleted [6eb98fa7f565bef29bc08a993964ae9e]
+2023-05-01T07:46:49+00:00 NOTICE order.member.updated :: Updated ussama@witsglobal.com subscriber status to subscribed and language to en
+2023-05-01T07:46:49+00:00 NOTICE order_submit.success :: addStoreOrder :: #62979 :: email: ussama@witsglobal.com :: campaign id 18028b68c7 :: landing site https://thebusinessyear.com/saudi-arabia/ :: abandoned cart deleted [b6c4f6f942d5b1a67d212b7596d8bd72]
+2023-05-01T07:46:50+00:00 NOTICE webhook :: Subscriber Sync :: subscribe :: Ussama@witsglobal.com :: Array
+(
+    [subscribed] => 1
+    [user_id] => 42723
+)
+
+2023-05-01T07:56:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62979
+2023-05-01T07:58:20+00:00 NOTICE order.member.updated :: Updated ussama@witsglobal.com subscriber status to subscribed and language to 
+2023-05-01T07:58:20+00:00 NOTICE order_submit.success :: updateStoreOrder :: #62979 :: email: ussama@witsglobal.com
+2023-05-01T07:59:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62979
+2023-05-01T08:01:20+00:00 NOTICE order.member.updated :: Updated ussama@witsglobal.com subscriber status to subscribed and language to 
+2023-05-01T08:01:20+00:00 NOTICE order_submit.success :: updateStoreOrder :: #62979 :: email: ussama@witsglobal.com
+2023-05-01T11:01:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42727
+2023-05-01T11:01:18+00:00 NOTICE member.sync :: i.r.c.z.e.n.kosvetlana.s.2030@gmail.com is Pending Double OptIn
+2023-05-01T15:18:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42728
+2023-05-01T15:19:18+00:00 NOTICE member.sync :: mar.g.a.r.e.l.ove.tr.ob.er.ts@gmail.com is Pending Double OptIn

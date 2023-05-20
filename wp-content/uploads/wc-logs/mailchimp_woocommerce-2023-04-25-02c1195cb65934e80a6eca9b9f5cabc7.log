@@ -1,0 +1,7 @@
+2023-04-25T11:58:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62937
+2023-04-25T11:58:53+00:00 NOTICE debug :: Order ID 62937 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+

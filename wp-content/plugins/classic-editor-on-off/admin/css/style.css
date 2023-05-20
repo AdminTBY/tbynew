@@ -1,0 +1,178 @@
+/* for toggle switches -->start<--*/
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+/* for labels on swithes -->start<--*/
+LABEL.indented-checkbox-text
+{
+  margin-left: 80px;
+  display: block;
+  position: relative;
+  margin-top: -1em;  /* make this margin match whatever your line-height is */
+  line-height: 1.4em;  /* can be set here, or elsewehere */
+  width: 500px;
+}
+@media screen and (max-width: 1500px) {
+	LABEL.indented-checkbox-text
+	{
+	  margin-top: -1.4em;  /* make this margin match whatever your line-height is */
+	  width: 350px;
+	}
+}
+@media screen and (max-width: 1280px) {
+	LABEL.indented-checkbox-text
+	{
+	  margin-top: -1.4em;  /* make this margin match whatever your line-height is */
+	  width: 280px;
+	}
+}
+.switchesAndTextTable p {
+	margin-left: -20px;
+}
+.button-primary-update-names-and-titles {
+	margin-top: 15px;
+}
+/* for labels on swithes -->end<--*/
+/* for toggle switches -->end<--*/
+
+/* xxx */
+.intro_text_class{
+	
+	color:red;
+}
+
+
+.container_left {
+	color: black !important;
+	width: 50% !important;
+	height: 250px !important;
+	background: white !important;
+	float: left !important;
+	padding-top: 0px !important;
+	padding-left: 25px !important;
+}
+.enter-text {
+	margin-top: 0px !important;
+}
+.enter-text-span {
+	padding-left: 25px !important;
+}
+.container_for_left_and_right {
+	height: 250px !important;
+	width: 80%;
+	background: aqua;
+}
+
+.container_right {
+	margin-left: 15%;
+	height: 250px;
+	background: #f6f6f6 !important;
+	padding-left: 50px;
+}
+
+.tabbedElements_firstTab {
+	height: 50px;
+}
+
+
+.intro_text_class {
+	color: black;
+}
+
+#arrowd_Colour_free_of_charge_bk {
+	width: 212px !important;
+}
+
+
+.names-list-first-name {
+	margin-bottom: 10px !important;
+	width: 246px !important;
+}
+
+
+.drod_focb-ad {
+	margin-left: 25px !important;
+}
+.button-primary-update-names-and-titles
+
+{
+	 display: flex;
+  justify-content: center;
+  align-items: center;
+	
+	padding-bottom: 8px;
+	padding-top: 4px;
+	background: #2271b1;
+    border-color: #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+	transition-duration: 0.4s;
+  	cursor: pointer;
+	
+}
+
+.button-primary-update-names-and-titles:hover 
+{
+	background-color: #e7e7e7;
+background: #fff;
+    border-color: #000;
+    color: #2271b1;
+}

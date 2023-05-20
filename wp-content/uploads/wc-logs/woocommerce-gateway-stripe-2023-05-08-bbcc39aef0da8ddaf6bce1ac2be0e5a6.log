@@ -1,0 +1,497 @@
+2023-05-08T00:37:38+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T02:38:54+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T04:38:55+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-05-08T04:38:55+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T04:38:55+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-05-08T04:38:55+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T04:39:13+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-05-08T04:39:13+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-05-08T04:39:13+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-05-08T04:39:13+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-05-08T06:39:36+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T08:39:55+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T10:40:39+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T10:40:39+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T12:41:33+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T13:17:37+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-08T13:20:45+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+customers request: Array
+(
+    [email] => sebastien.bidault@atlascopco.com
+    [description] => Name: Sebastien Bidault, Username: sebastien.bidault
+    [name] => Sebastien Bidault
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-08T13:20:45+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N5TwcIklOUlCnej2qfF3J11 request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63201
+    [description] => The Business Year - Order 63201
+    [customer] => cus_NrCO9eAOJ1wIct
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Sebastien Bidault
+            [customer_email] => sebastien.bidault@atlascopco.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63201
+            [order_key] => wc_order_VUZX8muPAU6VU
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-08T13:20:48+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Stripe PaymentIntent pi_3N5TwcIklOUlCnej2qfF3J11 succeeded for order 63201
+====End Log====
+
+
+2023-05-08T13:20:49+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Could not find order via charge ID: ch_3N5TwcIklOUlCnej2nhTLs10
+====End Log====
+
+
+2023-05-08T13:53:15+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-08T14:41:39+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T16:41:41+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T16:41:41+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T16:41:41+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T18:41:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T20:41:44+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-08T21:37:51+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 6000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-08T21:44:48+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Denisse.Diaz@uline.com
+    [description] => Name: denisse diaz, Guest
+    [name] => denisse diaz
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-08T21:44:49+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N5bkiIklOUlCnej220H9nfL request: Array
+(
+    [amount] => 6000
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63211
+    [description] => The Business Year - Order 63211
+    [customer] => cus_NrKWIaynQvg24a
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => denisse diaz
+            [customer_email] => Denisse.Diaz@uline.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63211
+            [order_key] => wc_order_B6tZFjpyZHtRO
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-08T21:44:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Begin processing UPE redirect payment for order 63211 for the amount of 60.00
+====End Log====
+
+
+2023-05-08T21:44:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N5bkiIklOUlCnej220H9nfL?expand[]=payment_method
+====End Log====
+
+
+2023-05-08T21:44:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Stripe PaymentIntent pi_3N5bkiIklOUlCnej220H9nfL succeeded for order 63211
+====End Log====
+
+
+2023-05-08T21:44:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Could not find order via charge ID: ch_3N5bkiIklOUlCnej2VbkfIvL
+====End Log====
+
+
+2023-05-08T21:44:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3N5bkiIklOUlCnej2VbkfIvL
+    [object] => charge
+    [amount] => 6000
+    [amount_captured] => 6000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3N5bkiIklOUlCnej2mEX7a68
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => Apodaca
+                    [country] => MX
+                    [line1] => Carr. Miguel Aleman km 21 Bodega #6 Prologis Park Apodaca
+                    [line2] => -
+                    [postal_code] => 66627
+                    [state] => NL
+                )
+
+            [email] => Denisse.Diaz@uline.com
+            [name] => denisse diaz
+            [phone] => 81-8156-7400 
+        )
+
+    [calculated_statement_descriptor] => THEBSSNSYR* #63211
+    [captured] => 1
+    [created] => 1683582291
+    [currency] => usd
+    [customer] => cus_NrKWIaynQvg24a
+    [description] => The Business Year - Order 63211
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_balance_transaction] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 1
+    [metadata] => stdClass Object
+        (
+            [customer_email] => Denisse.Diaz@uline.com
+            [customer_name] => denisse diaz
+            [order_id] => 63211
+            [order_key] => wc_order_B6tZFjpyZHtRO
+            [payment_type] => single
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3N5bkiIklOUlCnej220H9nfL
+    [payment_method] => pm_1N5brTIklOUlCnej4RS4YYhF
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => unavailable
+                            [address_postal_code_check] => unavailable
+                            [cvc_check] => pass
+                        )
+
+                    [country] => MX
+                    [exp_month] => 11
+                    [exp_year] => 2027
+                    [fingerprint] => drQCmIzaWtdRTuHV
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 6140
+                    [mandate] => 
+                    [network] => visa
+                    [network_token] => stdClass Object
+                        (
+                            [used] => 
+                        )
+
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => Denisse.Diaz@uline.com
+    [receipt_number] => 
+    [receipt_url] => https://pay.stripe.com/receipts/payment/CAcQARoXChVhY2N0XzFMbzdzOUlrbE9VbENuZWoo1drlogYyBvZvkcSiPzosFl_-FQOtI7PIM7p_PJoehAwAtEz8JHFc4Xo8zq4IZgzwMIM8UINWfMkMehI
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3N5bkiIklOUlCnej2VbkfIvL/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => 
+    [source_transfer] => 
+    [statement_descriptor] => thebssnsyr* #63211
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2023-05-08T21:44:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+balance/history/txn_3N5bkiIklOUlCnej2mEX7a68
+====End Log====
+
+
+2023-05-08T22:42:03+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+

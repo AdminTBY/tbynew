@@ -1,0 +1,1 @@
+2023-04-25T06:54:52+00:00 CRITICAL Could not insert 'customer' item to database. AutomateWoo tables may not be installed. (Error: Commands out of sync; you can't run this command now (Query: SHOW FULL COLUMNS FROM `wp_automatewoo_customers`))

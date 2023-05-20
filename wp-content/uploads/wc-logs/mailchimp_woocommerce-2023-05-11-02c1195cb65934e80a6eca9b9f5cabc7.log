@@ -1,0 +1,29 @@
+2023-05-11T02:29:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42755
+2023-05-11T02:30:09+00:00 NOTICE member.sync :: ve.ro.ni.k.a.s.l.oboda.nov.ic.h@gmail.com is Pending Double OptIn
+2023-05-11T03:55:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42756
+2023-05-11T03:55:19+00:00 NOTICE member.sync :: l.e.o.n.i.ds.hk.or.ob.e.nk.o.vvy.a@gmail.com is Pending Double OptIn
+2023-05-11T07:16:39+00:00 NOTICE webhook :: Subscriber Sync :: subscribe :: lmeintjes@proven-sa.com :: Array
+(
+    [subscribed] => 1
+    [user_id] => 42753
+)
+
+2023-05-11T15:45:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 67c6a106542def39dac5003167eb6729
+2023-05-11T15:46:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63424
+2023-05-11T15:46:45+00:00 NOTICE debug :: Order ID 63424 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/checkout/order-received/63424/?key=wc_order_kMYndHgRRQiz7&utm_nooverride=1&order_id=63424&wc_payment_method=stripe&_wpnonce=8a9ea36972&save_payment_method=no&payment_intent=pi_3N6belIklOUlCnej1BHxBNop&payment_intent_client_secret=pi_3N6belIklOUlCnej1BHxBNop_secret_eaG3z7lqAezWjmaHZsDcxEI6o&redirect_status=succeeded
+        )
+
+)
+
+2023-05-11T21:11:36+00:00 NOTICE abandoned_cart.success :: email: camelia.tsar@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=67c6a106542def39dac5003167eb6729
+2023-05-11T21:11:36+00:00 NOTICE cart.member.updated :: Updated camelia.tsar@gmail.com subscriber status to subscribed and language to en
+2023-05-11T21:11:43+00:00 NOTICE order.member.updated :: Updated camelia.tsar@gmail.com subscriber status to subscribed and language to en
+2023-05-11T21:11:43+00:00 NOTICE order_submit.success :: addStoreOrder :: #63424 :: email: camelia.tsar@gmail.com :: landing site https://thebusinessyear.com/product/angola-2023/?utm_campaign=Weekly&utm_medium=email&_hsmi=71683496&_hsenc=p2ANqtz--xwUg82hIOQiklVD59OiUA9mNm-7JFJQy1HuHf6JUBjdDEaU_5iSWI-yHFsWaUx6dHKYo3EIgoeqUUottCW93b6Wt5xg&utm_content=71683496&utm_source=hs_email :: abandoned cart deleted [67c6a106542def39dac5003167eb6729]
+2023-05-11T21:40:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42759
+2023-05-11T21:41:06+00:00 NOTICE member.sync :: leo.n.i.d.s.h.korobe.nkovvya@gmail.com is Pending Double OptIn

@@ -1,0 +1,27 @@
+2023-05-02T03:46:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42729
+2023-05-02T03:47:17+00:00 NOTICE member.sync :: Skipped Member Sync For m.arg.a.re.l.ovet.r.o.b.e.rts@gmail.com because the current status is pending :: Array
+(
+    [FNAME] => Margaretlda
+    [LNAME] => Margaretlda
+)
+
+2023-05-02T10:56:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42731
+2023-05-02T10:57:18+00:00 NOTICE member.sync :: ir.czen.ko.s.vet.l.a.nas.2.0.3.0@gmail.com is Pending Double OptIn
+2023-05-02T14:07:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 63041
+2023-05-02T14:07:04+00:00 NOTICE promo_code_submit.success :: #63041 :: code: tbyangola50
+2023-05-02T17:32:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 623d1f3ad0f2f24399ddf154c85b4557
+2023-05-02T17:33:30+00:00 NOTICE abandoned_cart.success :: email: susana.garcia@uline.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=623d1f3ad0f2f24399ddf154c85b4557
+2023-05-02T17:33:31+00:00 NOTICE cart.member.updated :: Updated susana.garcia@uline.com subscriber status to transactional and language to en
+2023-05-02T17:33:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63044
+2023-05-02T17:33:59+00:00 NOTICE debug :: Order ID 63044 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-05-02T17:33:59+00:00 NOTICE debug :: Order ID 63044 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+

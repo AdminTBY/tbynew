@@ -1,0 +1,54 @@
+.sub-title.text-black.font-bold.text-uppercase {
+  padding-top: 1px;
+  padding-bottom: 0px;
+}
+
+.tribe-events-single-event-description .tribe-events-content-inner {
+  padding-top: 1px;
+}
+
+.speaker-list.pad100 {
+  padding-top: 5px;
+}
+
+.sponser-section {
+  padding-bottom: 0px;
+}
+
+.tribe_events .section-title .tribe-events-single-event-title {
+  padding-top: 20px;
+}
+
+.sub-section-title.text-black.font-bold.border-line.m-t-0 {
+  padding-top: 20px;
+}
+
+.sponserby-list {
+  margin-bottom: 45px;
+}
+
+.mo-openid-app-icons {
+  margin-top: 35px;
+  margin-bottom: 5px;
+}
+
+label {
+  position: relative;
+  padding-top: 16px;
+  padding-right: 8px;
+}
+
+
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+#elementor-popup-modal-47883 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: #ffffff;
+}

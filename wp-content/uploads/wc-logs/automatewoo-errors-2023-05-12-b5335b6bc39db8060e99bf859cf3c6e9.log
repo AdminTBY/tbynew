@@ -1,0 +1,2 @@
+2023-05-12T06:52:32+00:00 CRITICAL Could not insert 'customer' item to database. AutomateWoo tables may not be installed. (Error: MySQL server has gone away (Query: SELECT option_value FROM wp_options WHERE option_name = 'woocommerce_myaccount_page_id' LIMIT 1))
+2023-05-12T06:52:32+00:00 CRITICAL Could not insert 'customer' item to database. AutomateWoo tables may not be installed. (Error: MySQL server has gone away (Query: SELECT option_value FROM wp_options WHERE option_name = 'woocommerce_myaccount_page_id' LIMIT 1))

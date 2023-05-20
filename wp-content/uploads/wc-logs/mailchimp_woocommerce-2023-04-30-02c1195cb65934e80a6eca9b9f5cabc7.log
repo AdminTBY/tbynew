@@ -1,0 +1,47 @@
+2023-04-30T07:35:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62990
+2023-04-30T07:35:04+00:00 NOTICE debug :: Order ID 62990 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/
+        )
+
+)
+
+2023-04-30T07:35:04+00:00 NOTICE webhook :: Subscriber Sync :: unsubscribe :: amr.talaat20@gmail.com :: Array
+(
+    [subscribed] => 
+    [user_id] => 42724
+)
+
+2023-04-30T10:05:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 6eb98fa7f565bef29bc08a993964ae9e
+2023-04-30T10:06:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62991
+2023-04-30T10:06:28+00:00 NOTICE debug :: Order ID 62991 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/
+        )
+
+)
+
+2023-04-30T10:06:29+00:00 NOTICE webhook :: Subscriber Sync :: unsubscribe :: mildred_vl@hotmail.com :: Array
+(
+    [subscribed] => 
+    [user_id] => 42725
+)
+
+2023-04-30T10:51:38+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => fnhama@mcel.co.mz
+)
+
+2023-04-30T10:53:49+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => mmusharbak@adf.ae
+)
+

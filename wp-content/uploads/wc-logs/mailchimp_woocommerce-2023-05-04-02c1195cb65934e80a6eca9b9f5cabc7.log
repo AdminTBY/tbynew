@@ -1,0 +1,57 @@
+2023-05-04T05:24:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42734
+2023-05-04T05:24:47+00:00 NOTICE member.sync :: sh.k.utko.v.ig.o.re.cz.ekbe.s.t@gmail.com is Pending Double OptIn
+2023-05-04T09:04:45+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 1
+    [gdpr_fields] => 
+)
+
+2023-05-04T09:04:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2023-05-04T09:05:18+00:00 NOTICE member.sync :: Updated Member admin@thebusinessyear.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Admin
+            [LNAME] => TBY
+        )
+
+    [gdpr_fields] => 
+)
+
+2023-05-04T09:08:35+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 1
+    [gdpr_fields] => 
+)
+
+2023-05-04T09:08:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2023-05-04T09:08:35+00:00 NOTICE member.sync :: Updated Member admin@thebusinessyear.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Admin
+            [LNAME] => TBY
+        )
+
+    [gdpr_fields] => 
+)
+
+2023-05-04T15:22:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cbe313044cada6c51ce02225c2538b81
+2023-05-04T15:22:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63171
+2023-05-04T15:22:47+00:00 NOTICE debug :: Order ID 63171 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/checkout/order-received/63171/?key=wc_order_25eqonADMNDGl&utm_nooverride=1&order_id=63171&wc_payment_method=stripe&_wpnonce=e644241347&save_payment_method=no&payment_intent=pi_3N43y1IklOUlCnej1aD5ZGVI&payment_intent_client_secret=pi_3N43y1IklOUlCnej1aD5ZGVI_secret_8AMlBAXD0oWkt4lG9rLf8acQS&redirect_status=succeeded
+        )
+
+)
+

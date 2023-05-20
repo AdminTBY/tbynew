@@ -1,0 +1,39 @@
+2023-05-09T00:42:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42747
+2023-05-09T00:42:20+00:00 NOTICE member.sync :: v.er.oni.ka.s.lo.bo.d.a.n.ov.i.ch@gmail.com is Pending Double OptIn
+2023-05-09T01:27:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42748
+2023-05-09T01:28:21+00:00 NOTICE member.sync :: s.t.ri.uo.k.o.f.f.sti.ff.al.m.o.s.t@gmail.com is Pending Double OptIn
+2023-05-09T06:48:27+00:00 NOTICE debug :: Order ID 63201 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/product/angola-2023/?utm_campaign=Angola&utm_medium=email&_hsmi=71443768&_hsenc=p2ANqtz-81tQqRWScki_pnj_v4AGH3HA8AFcoMHXYWXe2L62agibRNEUYWkDsAzeakOVegLNBQGiqBQEFZmvAZkcCCsmMoYRl5wcFSykZLKzk9Z5xaNYAH_xo&utm_content=71443768&utm_source=hs_email
+        )
+
+)
+
+2023-05-09T06:48:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63201
+2023-05-09T06:49:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42746
+2023-05-09T06:49:39+00:00 NOTICE debug :: Order ID 63201 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-05-09T06:50:19+00:00 NOTICE member.sync :: Skipped Member Sync For sebastien.bidault@atlascopco.com because the current status is pending :: Array
+(
+    [FNAME] => Sebastien
+    [LNAME] => Bidault
+)
+
+2023-05-09T06:55:43+00:00 NOTICE order.member.updated :: Updated sebastien.bidault@atlascopco.com subscriber status to pending and language to en
+2023-05-09T06:55:43+00:00 NOTICE order_submit.success :: addStoreOrder :: #63201 :: email: sebastien.bidault@atlascopco.com :: landing site https://thebusinessyear.com/product/angola-2023/?utm_campaign=Angola&utm_medium=email&_hsmi=71443768&_hsenc=p2ANqtz-81tQqRWScki_pnj_v4AGH3HA8AFcoMHXYWXe2L62agibRNEUYWkDsAzeakOVegLNBQGiqBQEFZmvAZkcCCsmMoYRl5wcFSykZLKzk9Z5xaNYAH_xo&utm_content=71443768&utm_source=hs_email :: abandoned cart deleted [782bb93909307936a42933ee120dd87a]
+2023-05-09T08:59:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 63229
+2023-05-09T09:00:17+00:00 NOTICE promo_code_submit.success :: #63229 :: code: tbypanama50
+2023-05-09T12:46:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42749
+2023-05-09T12:47:18+00:00 NOTICE member.sync :: s.t.riu.o.koffst.iffa.l.mos.t@gmail.com is Pending Double OptIn
+2023-05-09T14:43:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 62437
+2023-05-09T14:44:17+00:00 NOTICE product_submit.success :: updateStoreProduct :: #62437
+2023-05-09T22:27:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42750
+2023-05-09T22:28:11+00:00 NOTICE member.sync :: ve.ro.nikaslobo.dan.ov.i.ch@gmail.com is Pending Double OptIn

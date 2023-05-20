@@ -1,0 +1,117 @@
+2023-04-23T07:25:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e7c57f5bd715cc249590054cf6ee5b5c
+2023-04-23T07:25:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62934
+2023-04-23T07:26:03+00:00 NOTICE debug :: Order ID 62934 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/cart/
+        )
+
+)
+
+2023-04-23T07:26:03+00:00 NOTICE webhook :: Subscriber Sync :: unsubscribe :: hassanmmalik@gmail.com :: Array
+(
+    [subscribed] => 
+    [user_id] => 42717
+)
+
+2023-04-23T07:26:22+00:00 NOTICE abandoned_cart.success :: email: hassanmmalik@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=e7c57f5bd715cc249590054cf6ee5b5c
+2023-04-23T07:26:23+00:00 NOTICE cart.member.updated :: Updated hassanmmalik@gmail.com subscriber status to pending and language to en
+2023-04-23T07:27:56+00:00 NOTICE order.member.updated :: Updated hassanmmalik@gmail.com subscriber status to pending and language to en
+2023-04-23T07:27:56+00:00 NOTICE order_submit.success :: addStoreOrder :: #62934 :: email: hassanmmalik@gmail.com :: landing site https://thebusinessyear.com/cart/ :: abandoned cart deleted [e7c57f5bd715cc249590054cf6ee5b5c]
+2023-04-23T07:29:06+00:00 NOTICE webhook :: Subscriber Sync :: subscribe :: hassanmmalik@gmail.com :: Array
+(
+    [subscribed] => 1
+    [user_id] => 42717
+)
+
+2023-04-23T08:51:01+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => arif@ooorm.com
+)
+
+2023-04-23T16:43:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62935
+2023-04-23T16:43:57+00:00 NOTICE debug :: Order ID 62935 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T16:43:57+00:00 NOTICE debug :: Order ID 62935 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T16:43:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T16:44:00+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T16:44:01+00:00 NOTICE cart.member.updated :: Updated mateuslutumba487@gmail.com subscriber status to pending and language to en
+2023-04-23T16:45:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62936
+2023-04-23T16:45:46+00:00 NOTICE debug :: Order ID 62936 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T16:45:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T16:46:03+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:10:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:11:19+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:12:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62937
+2023-04-23T17:13:06+00:00 NOTICE debug :: Order ID 62937 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:13:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:13:21+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:14:13+00:00 NOTICE debug :: Order ID 62937 was failed and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:14:24+00:00 NOTICE debug :: Order ID 62937 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:15:17+00:00 NOTICE debug :: Order ID 62937 was failed and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:15:28+00:00 NOTICE debug :: Order ID 62937 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:16:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:16:18+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:19:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:19:18+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:21:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 62937
+2023-04-23T17:21:35+00:00 NOTICE debug :: Order ID 62937 was failed and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:21:47+00:00 NOTICE debug :: Order ID 62937 was pending and is now failed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-04-23T17:24:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:24:19+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:24:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:24:42+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:30:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id cdffb7af3a36b3ec7cf3522cce9565d7
+2023-04-23T17:30:34+00:00 NOTICE abandoned_cart.success :: email: mateuslutumba487@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cdffb7af3a36b3ec7cf3522cce9565d7

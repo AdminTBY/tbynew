@@ -1,0 +1,19 @@
+2023-05-17T00:47:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42775
+2023-05-17T00:48:29+00:00 NOTICE member.sync :: e.va.s.t.o.go.du.klove.life@gmail.com is Pending Double OptIn
+2023-05-17T07:19:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 63447
+2023-05-17T07:19:07+00:00 NOTICE promo_code_submit.success :: #63447 :: code: medcan50tby
+2023-05-17T11:00:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 63449
+2023-05-17T11:00:21+00:00 NOTICE promo_code_submit.success :: #63449 :: code: tbyoman50
+2023-05-17T11:04:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon queued :: obj_id 63449
+2023-05-17T11:05:17+00:00 NOTICE promo_code_submit.success :: #63449 :: code: tbyoman50
+2023-05-17T11:24:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42776
+2023-05-17T11:24:20+00:00 NOTICE member.sync :: anjelik.al.opi.s.tu.ck.lov.e@gmail.com is Pending Double OptIn
+2023-05-17T22:49:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42777
+2023-05-17T22:50:18+00:00 NOTICE member.sync :: Skipped Member Sync For bmsvetpro@hotmail.com because the current status is pending :: Array
+(
+    [FNAME] => bmsvetislav
+    [LNAME] => bmsvetislav
+)
+
+2023-05-17T22:56:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42778
+2023-05-17T22:57:20+00:00 NOTICE member.sync :: eva.s.t.o.g.o.du.k.lo.v.e.lif.e@gmail.com is Pending Double OptIn

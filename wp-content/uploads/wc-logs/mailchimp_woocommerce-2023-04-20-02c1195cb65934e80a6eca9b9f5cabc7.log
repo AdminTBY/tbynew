@@ -1,0 +1,161 @@
+2023-04-20T06:31:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42702
+2023-04-20T06:31:58+00:00 NOTICE member.sync :: Updated Member pdhowson2@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Peter
+            [LNAME] => Howson
+        )
+
+    [gdpr_fields] => 
+)
+
+2023-04-20T08:25:43+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => kunle.elebute@ng.kpmg.com
+)
+
+2023-04-20T08:25:57+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => akshay99@live.com
+)
+
+2023-04-20T08:26:03+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => stylianos.tsoktouridis@talex.ae
+)
+
+2023-04-20T08:26:06+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => manuel_garcia@brightfinishing.com
+)
+
+2023-04-20T08:26:11+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => jonathan.stordy@agoragp.com
+)
+
+2023-04-20T08:26:20+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => rtopp@gep-events.com
+)
+
+2023-04-20T08:26:26+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => plotnikova@m-p.ru
+)
+
+2023-04-20T08:26:36+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => maybayguan@gmail.com
+)
+
+2023-04-20T08:26:39+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => wiilamanda29@gmail.com
+)
+
+2023-04-20T08:26:44+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => 99siw99@gmail.com
+)
+
+2023-04-20T08:26:46+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => yarelico@gmail.com
+)
+
+2023-04-20T08:26:57+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => shreyknj@icloud.com
+)
+
+2023-04-20T08:26:59+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => aziz838@icloud.com
+)
+
+2023-04-20T08:27:11+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => cheerfortaylor@icloud.com
+)
+
+2023-04-20T08:27:12+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => shaela.rehak@icloud.com
+)
+
+2023-04-20T08:27:17+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => usaf1a0x1@icloud.com
+)
+
+2023-04-20T08:27:18+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => charlesquinonez@quimfa.com.py
+)
+
+2023-04-20T08:27:30+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => jamala.aliyeva@oilfund.az
+)
+
+2023-04-20T08:27:46+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => gvalencia@vertexeng.com
+)
+
+2023-04-20T08:27:56+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => rricci@prima.com.pe
+)
+
+2023-04-20T08:28:19+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => marketing_thailand@th.pwc.com
+)
+
+2023-04-20T08:28:23+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => mercercreek@bright.net
+)
+
+2023-04-20T08:28:26+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => ahmed.alqutaiti@mohe.gov.om
+)
+
+2023-04-20T08:29:37+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => edward.o-donnell@db.com
+)
+
+2023-04-20T08:32:29+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => cecenaproducciones@hotmail.com
+)
+
+2023-04-20T08:51:30+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => jonathan.stordy@agoragp.com
+)
+
+2023-04-20T08:51:38+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => rtopp@gep-events.com
+)
+
+2023-04-20T09:41:36+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => rtopp@gep-events.com
+)
+
+2023-04-20T11:21:36+00:00 NOTICE subscriber_sync :: Webhook has invalid event :: Array
+(
+    [email] => jonathan.stordy@agoragp.com
+)
+
+2023-04-20T16:28:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42709
+2023-04-20T16:29:02+00:00 NOTICE member.sync :: v.ikt.o.r.i.a.i.l.ove.b.ac.k.c.h.am@gmail.com is Pending Double OptIn

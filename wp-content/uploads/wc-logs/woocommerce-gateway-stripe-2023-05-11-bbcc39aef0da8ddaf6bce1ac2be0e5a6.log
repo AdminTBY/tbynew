@@ -1,0 +1,332 @@
+2023-05-11T01:38:10+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T01:38:10+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T03:38:11+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T05:38:12+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T07:38:17+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T09:38:18+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T11:38:19+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T13:38:20+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T15:38:21+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T15:43:51+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-11T15:46:36+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+customers request: Array
+(
+    [email] => camelia.tsar@gmail.com
+    [description] => Name: Camelia  Oros, Guest
+    [name] => Camelia  Oros
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-11T15:46:36+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N6belIklOUlCnej1BHxBNop request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63424
+    [description] => The Business Year - Order 63424
+    [customer] => cus_NsMQG114RR6hgL
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Camelia Oros
+            [customer_email] => camelia.tsar@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63424
+            [order_key] => wc_order_kMYndHgRRQiz7
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-11T15:46:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Stripe PaymentIntent pi_3N6belIklOUlCnej1BHxBNop succeeded for order 63424
+====End Log====
+
+
+2023-05-11T15:46:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Begin processing UPE redirect payment for order 63424 for the amount of 39.00
+====End Log====
+
+
+2023-05-11T15:46:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N6belIklOUlCnej1BHxBNop?expand[]=payment_method
+====End Log====
+
+
+2023-05-11T15:46:44+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Could not find order via charge ID: ch_3N6belIklOUlCnej1SBNP9QX
+====End Log====
+
+
+2023-05-11T15:46:44+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3N6belIklOUlCnej1SBNP9QX
+    [object] => charge
+    [amount] => 3900
+    [amount_captured] => 3900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3N6belIklOUlCnej1scMx09e
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => Athens 
+                    [country] => GR
+                    [line1] => Osiou Louka  
+                    [line2] => -
+                    [postal_code] => 14572
+                    [state] => I
+                )
+
+            [email] => camelia.tsar@gmail.com
+            [name] => Camelia  Oros
+            [phone] => +306939353528
+        )
+
+    [calculated_statement_descriptor] => THEBSSNSYR* #63424
+    [captured] => 1
+    [created] => 1683819998
+    [currency] => usd
+    [customer] => cus_NsMQG114RR6hgL
+    [description] => The Business Year - Order 63424
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_balance_transaction] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 1
+    [metadata] => stdClass Object
+        (
+            [customer_email] => camelia.tsar@gmail.com
+            [customer_name] => Camelia Oros
+            [order_id] => 63424
+            [order_key] => wc_order_kMYndHgRRQiz7
+            [payment_type] => single
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3N6belIklOUlCnej1BHxBNop
+    [payment_method] => pm_1N6bhRIklOUlCnejyoT4mny0
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => unavailable
+                            [address_postal_code_check] => unavailable
+                            [cvc_check] => pass
+                        )
+
+                    [country] => MU
+                    [exp_month] => 6
+                    [exp_year] => 2027
+                    [fingerprint] => xJzStcFcXYBJhlt6
+                    [funding] => debit
+                    [installments] => 
+                    [last4] => 1979
+                    [mandate] => 
+                    [network] => visa
+                    [network_token] => stdClass Object
+                        (
+                            [used] => 
+                        )
+
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => camelia.tsar@gmail.com
+    [receipt_number] => 1002-3018
+    [receipt_url] => https://pay.stripe.com/receipts/payment/CAcQARoXChVhY2N0XzFMbzdzOUlrbE9VbENuZWoo5Jv0ogYyBmcoLoRnWjosFgJoHUQhUKDFN2aII6gRgpsLMC0tGDAQLnTsFrNMruYMOfiptO1SmDUEdWA
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3N6belIklOUlCnej1SBNP9QX/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => 
+    [source_transfer] => 
+    [statement_descriptor] => thebssnsyr* #63424
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2023-05-11T15:46:44+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+balance/history/txn_3N6belIklOUlCnej1scMx09e
+====End Log====
+
+
+2023-05-11T17:38:27+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T19:39:23+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T21:39:24+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-11T23:39:27+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+

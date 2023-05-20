@@ -1,0 +1,22 @@
+2023-05-18T06:09:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42779
+2023-05-18T06:09:49+00:00 NOTICE member.sync :: e.v.a.st.o.god.uklov.el.i.fe@gmail.com is Pending Double OptIn
+2023-05-18T09:43:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 0d2c571e982bdd8aef3506ae24dd547d
+2023-05-18T09:43:17+00:00 NOTICE abandoned_cart.success :: email: johnsmithstore.91@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=0d2c571e982bdd8aef3506ae24dd547d
+2023-05-18T09:43:18+00:00 NOTICE cart.member.updated :: Updated johnsmithstore.91@gmail.com subscriber status to transactional and language to en
+2023-05-18T09:49:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 0d2c571e982bdd8aef3506ae24dd547d
+2023-05-18T09:50:17+00:00 NOTICE abandoned_cart.success :: email: johnsmithstore.91@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=0d2c571e982bdd8aef3506ae24dd547d
+2023-05-18T12:48:53+00:00 NOTICE member.sync :: user_my_account_opt_in_save 
+2023-05-18T12:48:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42780
+2023-05-18T12:50:07+00:00 NOTICE member.sync :: Skipped Member Sync For 77SENAN@GMAIL.COM because the current status is pending :: Array
+(
+    [FNAME] => Ahmed
+    [LNAME] => Senan
+)
+
+2023-05-18T12:56:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42781
+2023-05-18T12:56:48+00:00 NOTICE member.sync :: anjel.i.ka.lo.p.is.t.uc.k.l.o.ve@gmail.com is Pending Double OptIn
+2023-05-18T14:13:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 62954
+2023-05-18T14:13:17+00:00 NOTICE product_submit.success :: updateStoreProduct :: #62954
+2023-05-18T23:22:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 80199fdccf49c5e7b89c5f20d24a7b63
+2023-05-18T23:23:19+00:00 NOTICE abandoned_cart.success :: email: andreeagindustries@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=80199fdccf49c5e7b89c5f20d24a7b63
+2023-05-18T23:23:19+00:00 NOTICE cart.member.updated :: Updated andreeagindustries@gmail.com subscriber status to pending and language to en

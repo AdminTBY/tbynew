@@ -1,0 +1,200 @@
+2023-05-02T00:13:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T02:14:10+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T04:14:34+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T06:16:01+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T08:16:31+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T10:16:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T12:17:03+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T14:17:05+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T16:17:07+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T17:28:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 6000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-02T17:31:50+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 6000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-02T17:33:54+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => susana.garcia@uline.com
+    [description] => Name: Susana Garcia, Guest
+    [name] => Susana Garcia
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-02T17:33:55+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N3N3KIklOUlCnej1oPUoNQL request: Array
+(
+    [amount] => 6000
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63044
+    [description] => The Business Year - Order 63044
+    [customer] => cus_Np17o0HR7uiee4
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Susana Garcia
+            [customer_email] => susana.garcia@uline.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63044
+            [order_key] => wc_order_PAQZG2CDIAE4v
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-02T17:33:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N3N3KIklOUlCnej1oPUoNQL
+====End Log====
+
+
+2023-05-02T17:33:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N3N3KIklOUlCnej1ZPGieLl
+====End Log====
+
+
+2023-05-02T17:33:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card was declined.
+====End Log====
+
+
+2023-05-02T17:33:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-05-02T18:17:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T20:17:16+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-02T22:17:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+

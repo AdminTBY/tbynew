@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<firstname><![CDATA[Ma]]></firstname>
+		<lastname><![CDATA[Hakim]]></lastname>
+		<emailaddress><![CDATA[mamdouh.elhakim@millenniumhotels.com]]></emailaddress>
+	</node>
+	<node>
+		<firstname><![CDATA[Ma]]></firstname>
+		<lastname><![CDATA[Jun]]></lastname>
+		<emailaddress><![CDATA[majun2@crsc.cn]]></emailaddress>
+	</node>
+</data>

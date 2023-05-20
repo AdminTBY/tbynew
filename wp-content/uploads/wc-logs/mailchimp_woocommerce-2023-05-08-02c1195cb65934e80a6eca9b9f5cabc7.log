@@ -1,0 +1,41 @@
+2023-05-08T07:15:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63171
+2023-05-08T07:15:06+00:00 NOTICE debug :: Order ID 63171 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2023-05-08T07:16:48+00:00 NOTICE order.member.updated :: Updated mathieu.vanvarenberg@havrico.be subscriber status to pending and language to 
+2023-05-08T07:16:48+00:00 NOTICE order_submit.success :: updateStoreOrder :: #63171 :: email: mathieu.vanvarenberg@havrico.be
+2023-05-08T09:22:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 62954
+2023-05-08T09:22:25+00:00 NOTICE product_submit.success :: updateStoreProduct :: #62954
+2023-05-08T09:59:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42745
+2023-05-08T09:59:06+00:00 NOTICE member.sync :: s.tri.uo.k.of.fsti.ffalmost@gmail.com is Pending Double OptIn
+2023-05-08T13:19:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 782bb93909307936a42933ee120dd87a
+2023-05-08T13:20:18+00:00 NOTICE abandoned_cart.success :: email: sebastien.bidault@atlascopco.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=782bb93909307936a42933ee120dd87a
+2023-05-08T13:20:18+00:00 NOTICE cart.member.updated :: Updated sebastien.bidault@atlascopco.com subscriber status to transactional and language to en
+2023-05-08T13:20:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63201
+2023-05-08T13:20:44+00:00 NOTICE webhook :: Subscriber Sync :: unsubscribe :: sebastien.bidault@atlascopco.com :: Array
+(
+    [subscribed] => 
+    [user_id] => 42746
+)
+
+2023-05-08T13:22:20+00:00 NOTICE order_submit :: #63201 has a financial status of pending and was skipped.
+2023-05-08T21:41:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1a9ea395b9e5f47c41cef4f945a203c2
+2023-05-08T21:41:54+00:00 NOTICE abandoned_cart.success :: email: denisse.diaz@uline.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=1a9ea395b9e5f47c41cef4f945a203c2
+2023-05-08T21:41:54+00:00 NOTICE cart.member.updated :: Updated denisse.diaz@uline.com subscriber status to transactional and language to en
+2023-05-08T21:44:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63211
+2023-05-08T21:44:54+00:00 NOTICE debug :: Order ID 63211 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/checkout/order-received/63211/?key=wc_order_B6tZFjpyZHtRO&utm_nooverride=1&order_id=63211&wc_payment_method=stripe&_wpnonce=c58e0e4f26&save_payment_method=no&payment_intent=pi_3N5bkiIklOUlCnej220H9nfL&payment_intent_client_secret=pi_3N5bkiIklOUlCnej220H9nfL_secret_3ObT3QpnwVQPI4hLt7uvJxgc8&redirect_status=succeeded
+        )
+
+)
+
+2023-05-08T21:46:20+00:00 NOTICE order.member.updated :: Updated Denisse.Diaz@uline.com subscriber status to pending and language to en
+2023-05-08T21:46:20+00:00 NOTICE order_submit.success :: addStoreOrder :: #63211 :: email: Denisse.Diaz@uline.com :: landing site https://thebusinessyear.com/product/mexico-2023/ :: abandoned cart deleted [1a9ea395b9e5f47c41cef4f945a203c2]

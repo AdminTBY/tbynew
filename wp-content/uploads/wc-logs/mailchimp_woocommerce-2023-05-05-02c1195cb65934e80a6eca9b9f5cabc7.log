@@ -1,0 +1,8 @@
+2023-05-05T06:05:06+00:00 NOTICE abandoned_cart.success :: email: mathieu.vanvarenberg@havrico.be :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=cbe313044cada6c51ce02225c2538b81
+2023-05-05T06:05:06+00:00 NOTICE cart.member.updated :: Updated mathieu.vanvarenberg@havrico.be subscriber status to pending and language to en
+2023-05-05T06:05:11+00:00 NOTICE order.member.updated :: Updated mathieu.vanvarenberg@havrico.be subscriber status to pending and language to en
+2023-05-05T06:05:11+00:00 NOTICE order_submit.success :: addStoreOrder :: #63171 :: email: mathieu.vanvarenberg@havrico.be :: landing site https://thebusinessyear.com/product/angola-2023/?utm_campaign=Angola&utm_medium=email&_hsmi=71443768&_hsenc=p2ANqtz-8po86IP5BZxyK841LLC1qIPme8go9vja3S-f1pFoy_O6yFuytoEGyZs6gXRIJOZVf-7S6HXuOtE6TLo5Z8LMKoA1wA0F0BEG5hrLod4zZ7Xe3SKks&utm_content=71443768&utm_source=hs_email :: abandoned cart deleted [cbe313044cada6c51ce02225c2538b81]
+2023-05-05T19:02:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42736
+2023-05-05T19:02:54+00:00 NOTICE member.sync :: k.ricz.i.ko.v.ayas.vet.l.a.n.a@gmail.com is Pending Double OptIn
+2023-05-05T23:58:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42737
+2023-05-05T23:58:18+00:00 NOTICE member.sync :: s.h.ku.tk.ov.i.g.or.e.cz.ekb.e.st@gmail.com is Pending Double OptIn

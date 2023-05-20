@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ruleset name="Go Live Update Urls - Rules.">
+	<!-- See https://github.com/squizlabs/PHP_CodeSniffer/wiki/Annotated-ruleset.xml -->
+
+	<description>Ruleset for the Go Live Update Urls plugin.</description>
+	<version>4.0.0</version>
+
+	<!-- Include when not specified -->
+	<file>./src</file>
+
+	<!-- Show file path based on project root. -->
+	<arg name="basepath" value="." />
+
+	<!-- Cache between runs -->
+	<arg name="cache" value="./.phpcs.cache" />
+
+
+	<!-- @see https://github.com/PHPCompatibility/PHPCompatibilityWP#how-to-use -->
+	<config name="minimum_supported_wp_version" value="5.4" />
+	<config name="testVersion" value="7.0-" />
+
+	<rule ref="LipePlugin">
+		<exclude name="WordPress.DB.DirectDatabaseQuery.DirectQuery" />
+		<exclude name="WordPress.DB.DirectDatabaseQuery.NoCaching" />
+		<exclude name="WordPress.DB.PreparedSQL.NotPrepared" />
+	</rule>
+
+	<rule ref="WordPress.NamingConventions.PrefixAllGlobals">
+		<properties>
+			<property name="prefixes" type="array">
+				<element value="Go_Live_Update_Urls" />
+				<element value="OnPoint_Plugins" />
+				<element value="go_live_update_urls" />
+				<element value="go-live-update-urls" />
+			</property>
+		</properties>
+	</rule>
+
+	<!-- Translations -->
+	<rule ref="WordPress.WP.I18n">
+		<properties>
+			<property name="text_domain" type="array" value="go-live-update-urls" />
+		</properties>
+	</rule>
+</ruleset>

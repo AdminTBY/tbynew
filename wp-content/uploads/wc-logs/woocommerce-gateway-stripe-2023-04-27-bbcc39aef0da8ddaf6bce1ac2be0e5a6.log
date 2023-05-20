@@ -1,0 +1,364 @@
+2023-04-27T02:04:42+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T04:04:53+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T06:05:03+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T08:05:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T10:05:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T12:06:08+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T13:03:32+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 7800
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-27T13:04:33+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => ussama@witsglobal.com
+    [description] => Name: Ussama Iqbal, Username: ussama
+    [name] => Ussama Iqbal
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-27T13:04:33+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N1UTwIklOUlCnej2s9aKltP request: Array
+(
+    [amount] => 7800
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62979
+    [description] => The Business Year - Order 62979
+    [customer] => cus_Nn4eT7uF4rVITu
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Ussama Iqbal
+            [customer_email] => ussama@witsglobal.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62979
+            [order_key] => wc_order_79QybwZTbt1RH
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-27T13:04:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe PaymentIntent pi_3N1UTwIklOUlCnej2s9aKltP succeeded for order 62979
+====End Log====
+
+
+2023-04-27T13:04:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Begin processing UPE redirect payment for order 62979 for the amount of 78.00
+====End Log====
+
+
+2023-04-27T13:04:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N1UTwIklOUlCnej2s9aKltP?expand[]=payment_method
+====End Log====
+
+
+2023-04-27T13:04:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N1UTwIklOUlCnej2Wa7Nu3R
+====End Log====
+
+
+2023-04-27T13:04:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3N1UTwIklOUlCnej2Wa7Nu3R
+    [object] => charge
+    [amount] => 7800
+    [amount_captured] => 7800
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3N1UTwIklOUlCnej264IIbVE
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => safat
+                    [country] => KW
+                    [line1] => p o box 25743
+                    [line2] => -
+                    [postal_code] => 13118
+                    [state] => -
+                )
+
+            [email] => ussama@witsglobal.com
+            [name] => Ussama Iqbal
+            [phone] => +96524341117
+        )
+
+    [calculated_statement_descriptor] => THEBSSNSYR* #62979
+    [captured] => 1
+    [created] => 1682600675
+    [currency] => usd
+    [customer] => cus_Nn4eT7uF4rVITu
+    [description] => The Business Year - Order 62979
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_balance_transaction] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 1
+    [metadata] => stdClass Object
+        (
+            [customer_email] => ussama@witsglobal.com
+            [customer_name] => Ussama Iqbal
+            [order_id] => 62979
+            [order_key] => wc_order_79QybwZTbt1RH
+            [payment_type] => single
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3N1UTwIklOUlCnej2s9aKltP
+    [payment_method] => pm_1N1UUwIklOUlCnej833p9Tn7
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => unavailable
+                            [address_postal_code_check] => unavailable
+                            [cvc_check] => pass
+                        )
+
+                    [country] => KW
+                    [exp_month] => 7
+                    [exp_year] => 2027
+                    [fingerprint] => j2I9iQmO5wg8eeOw
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 9558
+                    [mandate] => 
+                    [network] => visa
+                    [network_token] => stdClass Object
+                        (
+                            [used] => 
+                        )
+
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => ussama@witsglobal.com
+    [receipt_number] => 1986-6603
+    [receipt_url] => https://pay.stripe.com/receipts/payment/CAcQARoXChVhY2N0XzFMbzdzOUlrbE9VbENuZWoo5eWpogYyBlexRsntQDosFoF3gO-IEWMMZ7hzUOoUgaiiOJ2dSS0rDpsaot1lOcCoEPRqqGG60RT89EA
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3N1UTwIklOUlCnej2Wa7Nu3R/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => 
+    [source_transfer] => 
+    [statement_descriptor] => thebssnsyr* #62979
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2023-04-27T13:04:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+balance/history/txn_3N1UTwIklOUlCnej264IIbVE
+====End Log====
+
+
+2023-04-27T14:06:25+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T16:06:27+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T16:39:16+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-27T16:39:27+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-27T16:45:23+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-27T16:45:35+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-27T17:36:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 8000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-27T18:07:02+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T20:08:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-27T22:08:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+

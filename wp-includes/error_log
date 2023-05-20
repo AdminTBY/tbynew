@@ -1,0 +1,48 @@
+[06-Apr-2023 14:27:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/thebusi4/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-http.php on line 11
+[06-Apr-2023 14:27:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/thebusi4/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-scripts.php on line 18
+[06-Apr-2023 14:27:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/thebusi4/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-styles.php on line 18
+[06-Apr-2023 14:28:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/thebusi4/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/template-canvas.php on line 12
+[07-Apr-2023 18:34:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/thebusi4/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-http.php on line 11
+[07-Apr-2023 18:34:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/thebusi4/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Apr-2023 18:34:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/thebusi4/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Apr-2023 18:35:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/thebusi4/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/template-canvas.php on line 12
+[08-Apr-2023 14:35:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/thebusi4/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2023 14:35:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/thebusi4/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Apr-2023 14:35:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/thebusi4/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Apr-2023 14:36:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/thebusi4/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/template-canvas.php on line 12

@@ -1,0 +1,16 @@
+[06-Apr-2023 14:29:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/thebusi4/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 8
+[07-Apr-2023 18:36:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/thebusi4/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 8
+[08-Apr-2023 14:36:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/thebusi4/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 8
+[17-Apr-2023 11:28:34 Europe/Berlin] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 8
+[17-Apr-2023 11:28:34 Europe/Berlin] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 8
+[17-Apr-2023 11:28:34 Europe/Berlin] PHP Warning:  require(ABSPATHWPINC/blocks/legacy-widget.php): failed to open stream: No such file or directory in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 11
+[17-Apr-2023 11:28:34 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/legacy-widget.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/thebusi4/public_html/wp-includes/blocks/index.php on line 11

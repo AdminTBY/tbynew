@@ -1,0 +1,12 @@
+[06-Apr-2023 14:29:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/thebusi4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Apr-2023 18:37:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/thebusi4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Apr-2023 14:36:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/thebusi4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thebusi4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

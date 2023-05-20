@@ -1,0 +1,76 @@
+2023-05-10T04:11:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42751
+2023-05-10T04:12:17+00:00 NOTICE member.sync :: l.e.oni.d.s.h.k.oro.b.enk.ov.vy.a@gmail.com is Pending Double OptIn
+2023-05-10T05:41:45+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 1
+    [gdpr_fields] => 
+)
+
+2023-05-10T05:41:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2023-05-10T05:41:54+00:00 NOTICE member.sync :: Updated Member admin@thebusinessyear.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Admin
+            [LNAME] => TBY
+        )
+
+    [gdpr_fields] => 
+)
+
+2023-05-10T05:42:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42752
+2023-05-10T05:42:25+00:00 NOTICE member.sync :: ve.ro.nik.a.s.lobo.dan.o.v.i.ch@gmail.com is Pending Double OptIn
+2023-05-10T05:50:21+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 1
+    [gdpr_fields] => 
+)
+
+2023-05-10T05:50:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2023-05-10T05:51:17+00:00 NOTICE member.sync :: Updated Member admin@thebusinessyear.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Admin
+            [LNAME] => TBY
+        )
+
+    [gdpr_fields] => 
+)
+
+2023-05-10T09:14:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 08a55dde4ff2e1fc66293032507805cd
+2023-05-10T09:14:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63392
+2023-05-10T09:14:44+00:00 NOTICE debug :: Order ID 63392 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/checkout/order-received/63392/?key=wc_order_uHkgg81sWL7r0&utm_nooverride=1&order_id=63392&wc_payment_method=stripe&_wpnonce=0f4c9975e3&save_payment_method=no&payment_intent=pi_3N6953IklOUlCnej1GP5Gkny&payment_intent_client_secret=pi_3N6953IklOUlCnej1GP5Gkny_secret_xzu9fUTmuQzGuJKJzMtqLuX7Y&redirect_status=succeeded
+        )
+
+)
+
+2023-05-10T09:14:49+00:00 NOTICE abandoned_cart.success :: email: pablomatosas@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=08a55dde4ff2e1fc66293032507805cd
+2023-05-10T09:14:50+00:00 NOTICE cart.member.updated :: Updated pablomatosas@gmail.com subscriber status to subscribed and language to en
+2023-05-10T09:16:18+00:00 NOTICE order.member.updated :: Updated pablomatosas@gmail.com subscriber status to subscribed and language to en
+2023-05-10T09:16:18+00:00 NOTICE order_submit.success :: addStoreOrder :: #63392 :: email: pablomatosas@gmail.com :: landing site https://thebusinessyear.com/product/oman-2023/?utm_campaign=Oman&utm_medium=email&_hsmi=71560430&_hsenc=p2ANqtz-8rfHTbf6Uuhc0QT2t0bw59nzNEUFZDhIF_-DuHJ5pLV8aeUTsLnQbCUsYUzieW8HBMS6mT6cKTkGAE_5Yrk0EE3SQ1MA&utm_content=71560429&utm_source=hs_email :: abandoned cart deleted [08a55dde4ff2e1fc66293032507805cd]
+2023-05-10T13:08:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 42b668dee260f199166dca82b036e87d
+2023-05-10T13:08:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 42b668dee260f199166dca82b036e87d
+2023-05-10T13:08:17+00:00 NOTICE abandoned_cart.success :: email: lmeintjes@proven-sa.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=42b668dee260f199166dca82b036e87d
+2023-05-10T13:08:18+00:00 NOTICE cart.member.updated :: Updated lmeintjes@proven-sa.com subscriber status to transactional and language to en
+2023-05-10T13:08:18+00:00 NOTICE abandoned_cart.success :: email: lmeintjes@proven-sa.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=42b668dee260f199166dca82b036e87d
+2023-05-10T13:08:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63406
+2023-05-10T13:09:02+00:00 NOTICE webhook :: Subscriber Sync :: unsubscribe :: lmeintjes@proven-sa.com :: Array
+(
+    [subscribed] => 
+    [user_id] => 42753
+)
+
+2023-05-10T13:10:50+00:00 NOTICE order_submit :: #63406 has a financial status of pending and was skipped.

@@ -1,0 +1,4 @@
+2023-05-19T06:58:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42784
+2023-05-19T06:59:26+00:00 NOTICE member.sync :: anj.e.likalo.pistu.c.k.l.ove@gmail.com is Pending Double OptIn
+2023-05-19T22:17:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 42785
+2023-05-19T22:18:19+00:00 NOTICE member.sync :: ver.on.as.k.ut.e.nk.oalls.ta.r@gmail.com is Pending Double OptIn

@@ -1,0 +1,2 @@
+2023-05-02T09:32:51+00:00 CRITICAL Cannot declare class MonsterInsights_Gtag_Local_Js, because the name is already in use in /home/thebusi4/public_html/wp-content/plugins/monsterinsights-performance_back/includes/frontend/gtag-local/class-gtag-js.php on line 14
+

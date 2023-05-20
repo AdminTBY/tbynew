@@ -1,0 +1,193 @@
+2023-04-25T00:43:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T00:43:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T00:46:50+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T00:46:50+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T01:13:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T01:22:55+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T01:22:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T01:29:25+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T01:29:25+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T03:12:42+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T03:14:55+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T03:17:19+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T05:17:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T10:39:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T11:22:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 6000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-25T12:40:10+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T14:40:25+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T16:43:33+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T19:50:19+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T20:53:40+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T20:53:40+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T20:53:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T20:53:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-25T21:51:17+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T23:51:22+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-25T23:51:22+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+

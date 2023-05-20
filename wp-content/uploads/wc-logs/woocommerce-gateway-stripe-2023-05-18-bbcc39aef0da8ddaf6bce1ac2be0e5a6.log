@@ -1,0 +1,127 @@
+2023-05-18T01:53:04+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T03:53:46+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T05:53:49+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T07:54:44+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T09:41:22+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 1000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-18T09:48:12+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 1000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-18T09:54:48+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T11:54:50+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T13:54:51+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T15:55:11+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T17:55:12+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T19:55:25+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T21:55:41+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T23:56:09+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-18T23:56:09+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+

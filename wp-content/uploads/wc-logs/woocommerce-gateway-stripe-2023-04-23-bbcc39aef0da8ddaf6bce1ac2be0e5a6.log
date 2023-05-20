@@ -1,0 +1,1732 @@
+2023-04-23T00:34:42+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T00:43:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T00:43:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T00:45:45+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T00:45:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T01:09:03+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T01:22:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T01:22:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T01:27:11+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T01:27:11+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T02:35:34+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T04:42:18+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T06:35:25+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T06:35:26+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T06:44:30+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T06:53:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T06:53:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T06:54:21+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T06:54:21+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T06:54:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T08:44:33+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T08:47:40+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T08:55:26+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T09:45:29+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T10:57:22+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T12:57:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T13:54:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T13:54:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T13:55:24+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T13:55:24+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+
+2023-04-23T14:58:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T16:43:04+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T16:43:50+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Mateuslutumba487@gmail.com
+    [description] => Name: M P Lutumba, Guest
+    [name] => M P Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T16:43:51+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N060DIklOUlCnej0aeVjekh request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62935
+    [description] => The Business Year - Order 62935
+    [customer] => cus_NldHM9Wcsqkgvz
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => M P Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62935
+            [order_key] => wc_order_OPwnFlqzjNCkD
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T16:43:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N060DIklOUlCnej0aeVjekh
+====End Log====
+
+
+2023-04-23T16:43:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N060DIklOUlCnej0pORACEk
+====End Log====
+
+
+2023-04-23T16:43:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card has insufficient funds.
+====End Log====
+
+
+2023-04-23T16:43:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-04-23T16:45:11+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 2900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T16:45:35+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Mateuslutumba487@gmail.com
+    [description] => Name: Mateus Lutumba, Guest
+    [name] => Mateus Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T16:45:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N062FIklOUlCnej16spHL0Z request: Array
+(
+    [amount] => 2900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62936
+    [description] => The Business Year - Order 62936
+    [customer] => cus_NldJNF2061yLP9
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62936
+            [order_key] => wc_order_uvxQNUqCM6MqM
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T16:45:41+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N062FIklOUlCnej1mKRo5DR
+====End Log====
+
+
+2023-04-23T16:45:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N062FIklOUlCnej1LJh7BcA
+====End Log====
+
+
+2023-04-23T16:45:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N062FIklOUlCnej16spHL0Z
+====End Log====
+
+
+2023-04-23T16:45:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card was declined.
+====End Log====
+
+
+2023-04-23T16:45:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-04-23T16:59:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T17:09:28+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 2900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T17:12:29+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T17:12:55+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Mateuslutumba487@gmail.com
+    [description] => Name: Mateus Lutumba, Guest
+    [name] => Mateus Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:12:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06SfIklOUlCnej2dt1Dwes request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62937
+    [description] => The Business Year - Order 62937
+    [customer] => cus_Nldkh8Iamnq6y7
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62937
+            [order_key] => wc_order_mKS15hdPPvjOm
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:13:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N06SfIklOUlCnej2q5udask
+====End Log====
+
+
+2023-04-23T17:13:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06SfIklOUlCnej2dt1Dwes
+====End Log====
+
+
+2023-04-23T17:13:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card was declined.
+====End Log====
+
+
+2023-04-23T17:13:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-04-23T17:14:12+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Mateuslutumba487@gmail.com
+    [description] => Name: Mateus Lutumba, Guest
+    [name] => Mateus Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:14:13+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06SfIklOUlCnej2dt1Dwes request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62937
+    [description] => The Business Year - Order 62937
+    [customer] => cus_NldliugPfj00tO
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62937
+            [order_key] => wc_order_mKS15hdPPvjOm
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:14:23+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N06SfIklOUlCnej2gWdgvyi
+====End Log====
+
+
+2023-04-23T17:14:24+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06SfIklOUlCnej2dt1Dwes
+====End Log====
+
+
+2023-04-23T17:14:24+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card was declined.
+====End Log====
+
+
+2023-04-23T17:14:24+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-04-23T17:15:16+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Mateuslutumba487@gmail.com
+    [description] => Name: Mateus Lutumba, Guest
+    [name] => Mateus Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:15:17+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06SfIklOUlCnej2dt1Dwes request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62937
+    [description] => The Business Year - Order 62937
+    [customer] => cus_NldmOvnRNil25s
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62937
+            [order_key] => wc_order_mKS15hdPPvjOm
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:15:23+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N06SfIklOUlCnej206etF6R
+====End Log====
+
+
+2023-04-23T17:15:28+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N06SfIklOUlCnej2635GMEv
+====End Log====
+
+
+2023-04-23T17:15:28+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06SfIklOUlCnej2dt1Dwes
+====End Log====
+
+
+2023-04-23T17:15:28+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card was declined.
+====End Log====
+
+
+2023-04-23T17:15:28+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-04-23T17:17:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T17:21:34+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => Mateuslutumba487@gmail.com
+    [description] => Name: Mateus Lutumba, Guest
+    [name] => Mateus Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:21:35+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #62937
+    [description] => The Business Year - Order 62937
+    [customer] => cus_Nldtrqm8zgtyyB
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 62937
+            [order_key] => wc_order_mKS15hdPPvjOm
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:21:41+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N06XGIklOUlCnej2Dwd5TD6
+====End Log====
+
+
+2023-04-23T17:21:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N06XGIklOUlCnej2RbfyoNn
+====End Log====
+
+
+2023-04-23T17:21:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8
+====End Log====
+
+
+2023-04-23T17:21:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error when processing payment: Your card was declined.
+====End Log====
+
+
+2023-04-23T17:21:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: We're not able to process this payment. Please try again later.
+====End Log====
+
+
+2023-04-23T17:25:31+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => 
+    [description] => Name: Mateus Lutumba, Username: mateuslutumba487
+    [name] => Mateus Lutumba
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+    [phone] => 
+    [address] => Array
+        (
+            [line1] => 
+            [line2] => 
+            [postal_code] => 
+            [city] => 
+            [state] => 
+            [country] => 
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:25:33+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+setup_intents request: Array
+(
+    [customer] => cus_NldxWQZpZ2x9Rt
+    [confirm] => false
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:28:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_NldxWQZpZ2x9Rt
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2023-04-23T17:29:02+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+setup_intents request: Array
+(
+    [customer] => cus_NldxWQZpZ2x9Rt
+    [confirm] => false
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:29:30+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+setup_intents/seti_1N06igIklOUlCneja9DVxMkB request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:29:30+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via setup intent ID: seti_1N06igIklOUlCneja9DVxMkB
+====End Log====
+
+
+2023-04-23T17:29:30+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+    [billing_details] => Array
+        (
+            [name] => Mateus Lutumba
+            [email] => 
+            [phone] => 
+            [address] => Array
+                (
+                    [line1] => 
+                    [line2] => 
+                    [postal_code] => 
+                    [city] => 
+                    [state] => 
+                    [country] => 
+                )
+
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:29:31+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_NldxWQZpZ2x9Rt
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2023-04-23T17:29:32+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers/cus_NldxWQZpZ2x9Rt request: Array
+(
+    [invoice_settings] => Array
+        (
+            [default_payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T17:29:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_NldxWQZpZ2x9Rt
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2023-04-23T17:30:07+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T17:30:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:30:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Info: Begin processing payment with saved payment method for order 62937 for the amount of 39.00
+====End Log====
+
+
+2023-04-23T17:30:56+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:30:57+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [amount] => 3900
+    [currency] => usd
+    [description] => The Business Year - Order 62937
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [order_id] => 62937
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [customer] => cus_NldxWQZpZ2x9Rt
+)
+
+====End Log====
+
+
+2023-04-23T17:30:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:30:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Info: Begin processing payment with saved payment method for order 62937 for the amount of 39.00
+====End Log====
+
+
+2023-04-23T17:30:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:00+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [amount] => 3900
+    [currency] => usd
+    [description] => The Business Year - Order 62937
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [order_id] => 62937
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [customer] => cus_NldxWQZpZ2x9Rt
+)
+
+====End Log====
+
+
+2023-04-23T17:31:02+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:03+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Info: Begin processing payment with saved payment method for order 62937 for the amount of 39.00
+====End Log====
+
+
+2023-04-23T17:31:03+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:03+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [amount] => 3900
+    [currency] => usd
+    [description] => The Business Year - Order 62937
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [order_id] => 62937
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [customer] => cus_NldxWQZpZ2x9Rt
+)
+
+====End Log====
+
+
+2023-04-23T17:31:07+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:07+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Info: Begin processing payment with saved payment method for order 62937 for the amount of 39.00
+====End Log====
+
+
+2023-04-23T17:31:07+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:08+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [amount] => 3900
+    [currency] => usd
+    [description] => The Business Year - Order 62937
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [order_id] => 62937
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [customer] => cus_NldxWQZpZ2x9Rt
+)
+
+====End Log====
+
+
+2023-04-23T17:31:13+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:13+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Info: Begin processing payment with saved payment method for order 62937 for the amount of 39.00
+====End Log====
+
+
+2023-04-23T17:31:13+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [amount] => 3900
+    [currency] => usd
+    [description] => The Business Year - Order 62937
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [order_id] => 62937
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [customer] => cus_NldxWQZpZ2x9Rt
+)
+
+====End Log====
+
+
+2023-04-23T17:31:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_methods/pm_1N06j5IklOUlCnejhIYFkU3I request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:15+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Info: Begin processing payment with saved payment method for order 62937 for the amount of 39.00
+====End Log====
+
+
+2023-04-23T17:31:15+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+
+2023-04-23T17:31:15+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N06XGIklOUlCnej2oWWtWb8 request: Array
+(
+    [payment_method] => pm_1N06j5IklOUlCnejhIYFkU3I
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [amount] => 3900
+    [currency] => usd
+    [description] => The Business Year - Order 62937
+    [metadata] => Array
+        (
+            [customer_name] => Mateus Lutumba
+            [customer_email] => Mateuslutumba487@gmail.com
+            [order_id] => 62937
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [customer] => cus_NldxWQZpZ2x9Rt
+)
+
+====End Log====
+
+
+2023-04-23T17:31:16+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Error: stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [code] => payment_intent_unexpected_state
+            [doc_url] => https://stripe.com/docs/error-codes/payment-intent-unexpected-state
+            [message] => You cannot modify `customer` on a PaymentIntent once it already has been set. To fulfill a payment with a different Customer, cancel this PaymentIntent and create a new one.
+            [payment_intent] => stdClass Object
+                (
+                    [id] => pi_3N06XGIklOUlCnej2oWWtWb8
+                    [object] => payment_intent
+                    [amount] => 3900
+                    [amount_capturable] => 0
+                    [amount_details] => stdClass Object
+                        (
+                            [tip] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 0
+                    [application] => 
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [charges] => stdClass Object
+                        (
+                            [object] => list
+                            [data] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [id] => ch_3N06XGIklOUlCnej2RbfyoNn
+                                            [object] => charge
+                                            [amount] => 3900
+                                            [amount_captured] => 0
+                                            [amount_refunded] => 0
+                                            [application] => 
+                                            [application_fee] => 
+                                            [application_fee_amount] => 
+                                            [balance_transaction] => 
+                                            [billing_details] => stdClass Object
+                                                (
+                                                    [address] => stdClass Object
+                                                        (
+                                                            [city] => London
+                                                            [country] => GB
+                                                            [line1] => Room 906
+                                                            [line2] => 497-501 lea Bridge House, lea Bridge Road
+                                                            [postal_code] => E10 7sd
+                                                            [state] => Waltham forest
+                                                        )
+
+                                                    [email] => Mateuslutumba487@gmail.com
+                                                    [name] => Mateus Lutumba
+                                                    [phone] => 07853739329
+                                                )
+
+                                            [calculated_statement_descriptor] => THEBSSNSYR* #62937
+                                            [captured] => 
+                                            [created] => 1682270504
+                                            [currency] => usd
+                                            [customer] => cus_Nldtrqm8zgtyyB
+                                            [description] => The Business Year - Order 62937
+                                            [destination] => 
+                                            [dispute] => 
+                                            [disputed] => 
+                                            [failure_balance_transaction] => 
+                                            [failure_code] => card_declined
+                                            [failure_message] => Your card was declined.
+                                            [fraud_details] => stdClass Object
+                                                (
+                                                )
+
+                                            [invoice] => 
+                                            [livemode] => 1
+                                            [metadata] => stdClass Object
+                                                (
+                                                    [order_key] => wc_order_mKS15hdPPvjOm
+                                                    [order_id] => 62937
+                                                    [site_url] => https://thebusinessyear.com
+                                                    [payment_type] => single
+                                                    [customer_email] => Mateuslutumba487@gmail.com
+                                                    [customer_name] => Mateus Lutumba
+                                                )
+
+                                            [on_behalf_of] => 
+                                            [order] => 
+                                            [outcome] => stdClass Object
+                                                (
+                                                    [network_status] => declined_by_network
+                                                    [reason] => do_not_honor
+                                                    [risk_level] => normal
+                                                    [seller_message] => The bank returned the decline code `do_not_honor`.
+                                                    [type] => issuer_declined
+                                                )
+
+                                            [paid] => 
+                                            [payment_intent] => pi_3N06XGIklOUlCnej2oWWtWb8
+                                            [payment_method] => pm_1N06bVIklOUlCnejGzCsecHK
+                                            [payment_method_details] => stdClass Object
+                                                (
+                                                    [card] => stdClass Object
+                                                        (
+                                                            [brand] => visa
+                                                            [checks] => stdClass Object
+                                                                (
+                                                                    [address_line1_check] => fail
+                                                                    [address_postal_code_check] => pass
+                                                                    [cvc_check] => pass
+                                                                )
+
+                                                            [country] => GB
+                                                            [exp_month] => 12
+                                                            [exp_year] => 2027
+                                                            [fingerprint] => VQ4hAS1cvjORMW5m
+                                                            [funding] => debit
+                                                            [installments] => 
+                                                            [last4] => 7027
+                                                            [mandate] => 
+                                                            [network] => visa
+                                                            [network_token] => stdClass Object
+                                                                (
+                                                                    [used] => 
+                                                                )
+
+                                                            [three_d_secure] => stdClass Object
+                                                                (
+                                                                    [authenticated] => 1
+                                                                    [authentication_flow] => frictionless
+                                                                    [result] => authenticated
+                                                                    [result_reason] => 
+                                                                    [succeeded] => 1
+                                                                    [version] => 2.2.0
+                                                                )
+
+                                                            [wallet] => 
+                                                        )
+
+                                                    [type] => card
+                                                )
+
+                                            [receipt_email] => Mateuslutumba487@gmail.com
+                                            [receipt_number] => 
+                                            [receipt_url] => 
+                                            [refunded] => 
+                                            [refunds] => stdClass Object
+                                                (
+                                                    [object] => list
+                                                    [data] => Array
+                                                        (
+                                                        )
+
+                                                    [has_more] => 
+                                                    [total_count] => 0
+                                                    [url] => /v1/charges/ch_3N06XGIklOUlCnej2RbfyoNn/refunds
+                                                )
+
+                                            [review] => 
+                                            [shipping] => 
+                                            [source] => 
+                                            [source_transfer] => 
+                                            [statement_descriptor] => thebssnsyr* #62937
+                                            [statement_descriptor_suffix] => 
+                                            [status] => failed
+                                            [transfer_data] => 
+                                            [transfer_group] => 
+                                        )
+
+                                )
+
+                            [has_more] => 
+                            [total_count] => 1
+                            [url] => /v1/charges?payment_intent=pi_3N06XGIklOUlCnej2oWWtWb8
+                        )
+
+                    [client_secret] => pi_3N06XGIklOUlCnej2oWWtWb8_secret_uzVuUE0btFmbV2YXsxgjpp8yX
+                    [confirmation_method] => automatic
+                    [created] => 1682270234
+                    [currency] => usd
+                    [customer] => cus_Nldtrqm8zgtyyB
+                    [description] => The Business Year - Order 62937
+                    [invoice] => 
+                    [last_payment_error] => stdClass Object
+                        (
+                            [charge] => ch_3N06XGIklOUlCnej2RbfyoNn
+                            [code] => card_declined
+                            [decline_code] => do_not_honor
+                            [doc_url] => https://stripe.com/docs/error-codes/card-declined
+                            [message] => Your card was declined.
+                            [payment_method] => stdClass Object
+                                (
+                                    [id] => pm_1N06bVIklOUlCnejGzCsecHK
+                                    [object] => payment_method
+                                    [billing_details] => stdClass Object
+                                        (
+                                            [address] => stdClass Object
+                                                (
+                                                    [city] => London
+                                                    [country] => GB
+                                                    [line1] => Room 906
+                                                    [line2] => 497-501 lea Bridge House, lea Bridge Road
+                                                    [postal_code] => E10 7sd
+                                                    [state] => Waltham forest
+                                                )
+
+                                            [email] => Mateuslutumba487@gmail.com
+                                            [name] => Mateus Lutumba
+                                            [phone] => 07853739329
+                                        )
+
+                                    [card] => stdClass Object
+                                        (
+                                            [brand] => visa
+                                            [checks] => stdClass Object
+                                                (
+                                                    [address_line1_check] => fail
+                                                    [address_postal_code_check] => pass
+                                                    [cvc_check] => pass
+                                                )
+
+                                            [country] => GB
+                                            [exp_month] => 12
+                                            [exp_year] => 2027
+                                            [fingerprint] => VQ4hAS1cvjORMW5m
+                                            [funding] => debit
+                                            [generated_from] => 
+                                            [last4] => 7027
+                                            [networks] => stdClass Object
+                                                (
+                                                    [available] => Array
+                                                        (
+                                                            [0] => visa
+                                                        )
+
+                                                    [preferred] => 
+                                                )
+
+                                            [three_d_secure_usage] => stdClass Object
+                                                (
+                                                    [supported] => 1
+                                                )
+
+                                            [wallet] => 
+                                        )
+
+                                    [created] => 1682270497
+                                    [customer] => 
+                                    [livemode] => 1
+                                    [metadata] => stdClass Object
+                                        (
+                                        )
+
+                                    [type] => card
+                                )
+
+                            [type] => card_error
+                        )
+
+                    [latest_charge] => ch_3N06XGIklOUlCnej2RbfyoNn
+                    [livemode] => 1
+                    [metadata] => stdClass Object
+                        (
+                            [order_key] => wc_order_mKS15hdPPvjOm
+                            [order_id] => 62937
+                            [site_url] => https://thebusinessyear.com
+                            [payment_type] => single
+                            [customer_email] => Mateuslutumba487@gmail.com
+                            [customer_name] => Mateus Lutumba
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => 
+                    [payment_method_options] => stdClass Object
+                        (
+                            [card] => stdClass Object
+                                (
+                                    [installments] => 
+                                    [mandate_options] => 
+                                    [network] => 
+                                    [request_three_d_secure] => automatic
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                        )
+
+                    [processing] => 
+                    [receipt_email] => 
+                    [review] => 
+                    [setup_future_usage] => 
+                    [shipping] => 
+                    [source] => 
+                    [statement_descriptor] => thebssnsyr* #62937
+                    [statement_descriptor_suffix] => 
+                    [status] => requires_payment_method
+                    [transfer_data] => 
+                    [transfer_group] => 
+                )
+
+            [request_log_url] => https://dashboard.stripe.com/logs/req_3q9wgAFazON1pa?t=1682271076
+            [type] => invalid_request_error
+        )
+
+)
+
+====End Log====
+
+
+2023-04-23T19:00:00+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T19:00:00+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T20:28:18+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 8000
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-04-23T21:00:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T23:03:16+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-23T23:50:35+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T23:50:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T23:50:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-23T23:50:36+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+

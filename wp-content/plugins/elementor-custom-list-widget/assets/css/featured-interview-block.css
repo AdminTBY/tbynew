@@ -1,0 +1,182 @@
+/* .elementor-widget-featured_interviews .section-title {
+    margin-bottom: 60px;
+}
+
+.interviews-block-main-outer {
+    flex-wrap: wrap;
+    display: flex;
+    gap: 30px;
+}
+
+.interviews-block-inner.first-interview-sec {
+    width: calc(66.66% - 10px);
+    background: #fff;
+    display: flex;
+}
+
+.interviews-block-inner.first-interview-sec .interviewers-list-thumb {
+    max-width: 350px;
+}
+
+.interviews-block-inner.first-interview-sec .interviews-list-content-sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.interviews-block-inner.first-interview-sec .interviewers-list-thumb img {
+    height: 100%;
+}
+
+.interviews-block-inner.first-interview-sec .interviews-list-content-sec {
+    padding: 50px 40px;
+}
+
+.interviews-block-inner {
+    width: calc(33.33% - 20px);
+    background: #fff;
+}
+
+.interviews-inner {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.interviews-list-content-sec {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+
+a.interview-view-more-btn {
+    width: fit-content;
+    background: #CD242E;
+    border: 2px solid #CD242E;
+    padding: 15px 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1;
+    align-items: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 30px;
+    display: inline-block;
+    transition: all .2s;
+}
+
+a.interview-view-more-btn:hover {
+    background: transparent;
+    color: #CD242E;
+}
+
+.interviews-block-main-outer .interviewers-list-thumb img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.interviewers-list-thumb {
+    width: 100%;
+    display: flex;
+}
+
+@media screen and (max-width: 1440px) {
+    .elementor-widget-featured_interviews .section-title {
+        margin-bottom: 50px;
+    }
+
+    .interviews-block-main-outer {
+        gap: 20px;
+    }
+
+    .interviews-block-inner.first-interview-sec {
+        width: calc(66.66% - 8px);
+    }
+
+    .interviews-block-inner {
+        width: calc(33.33% - 14px);
+    }
+
+    .interviews-block-inner.first-interview-sec .interviews-list-content-sec {
+        padding: 40px 30px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+
+    a.interview-view-more-btn {
+        font-size: 14px !important;
+        padding: 10px 25px !important
+    }
+
+    .elementor-widget-featured_interviews .section-title {
+        margin-bottom: 40px;
+    }
+
+    .interviews-block-inner.first-interview-sec .interviews-list-content-sec {
+        padding: 20px 20px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .interviews-block-main-outer {
+        gap: 10px;
+    }
+
+    .interviews-block-inner.first-interview-sec {
+        width: calc(66.66% - 4px);
+    }
+
+    .interviews-block-inner {
+        width: calc(33.33% - 7px);
+    }
+
+    .interviews-block-inner.first-interview-sec .interviews-list-content-sec {
+        padding: 20px 15px;
+    }
+
+    .interviews-list-content-sec {
+        padding: 15px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    a.interview-view-more-btn {
+        font-size: 13px !important;
+        padding: 13px 20px !important;
+    }
+
+    .interviews-block-inner.first-interview-sec {
+        width: 100%;
+    }
+
+    .interviews-block-inner.first-interview-sec .interviewers-list-thumb {
+        width: 100%;
+        max-width: 200px;
+    }
+
+    .interviews-block-inner {
+        width: calc(50% - 5px);
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .interviews-block-inner {
+        width: 100%;
+    }
+
+    .interviews-block-inner.first-interview-sec {
+        flex-direction: column;
+    }
+
+    .interviews-block-inner.first-interview-sec .interviewers-list-thumb {
+        max-width: 100%;
+        height: 220px;
+    }
+
+    .interviews-block-main-outer .interviewers-list-thumb img {
+        height: 220px;
+    }
+} */

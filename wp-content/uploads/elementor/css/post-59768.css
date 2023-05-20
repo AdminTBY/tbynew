@@ -1,0 +1,12 @@
+.elementor-59768 .elementor-element.elementor-element-4b30626b > .elementor-container{max-width:1342px;}.elementor-59768 .elementor-element.elementor-element-609f663d{color:#54595F;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-59768 .elementor-element.elementor-element-9e4bee3{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-59768 .elementor-element.elementor-element-b6cc252{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-59768 .elementor-element.elementor-element-a75cc55 .gallery-item{padding:0 14px 14px 0;}.elementor-59768 .elementor-element.elementor-element-a75cc55 .gallery{margin:0 -14px -14px 0;}.elementor-59768 .elementor-element.elementor-element-a75cc55 .gallery-item .gallery-caption{display:none;}.elementor-59768 .elementor-element.elementor-element-a75cc55.elementor-element{--align-self:flex-start;--flex-grow:1;--flex-shrink:0;}.elementor-59768 .elementor-element.elementor-element-e9b0ebf .elementor-button{font-family:"General sans Medium", Sans-serif;font-weight:500;fill:#FFFFFF;color:#FFFFFF;background-color:#CD242E;border-style:none;border-radius:1px 1px 1px 1px;}@media(min-width:768px){.elementor-59768 .elementor-element.elementor-element-9e4bee3{--content-width:1271px;}.elementor-59768 .elementor-element.elementor-element-b6cc252{--content-width:1260px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'General sans Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.eot');
+	src: url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.woff2') format('woff2'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.woff') format('woff'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

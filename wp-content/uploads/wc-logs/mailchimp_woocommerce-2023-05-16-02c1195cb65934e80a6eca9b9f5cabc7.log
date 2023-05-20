@@ -1,0 +1,34 @@
+2023-05-16T10:26:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 58ecf5dc4378ee4af6d00ed3c0dd1bf4
+2023-05-16T10:27:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63443
+2023-05-16T10:27:08+00:00 NOTICE debug :: Order ID 63443 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 6f4c9b380c
+            [landing_site] => https://thebusinessyear.com/product/digital-economy/?utm_source=The+Business+Year&utm_campaign=6f4c9b380c-EMAIL_CAMPAIGN_2023_03_06_11_31&utm_medium=email&utm_term=0_-6f4c9b380c-%5BLIST_EMAIL_ID%5D&mc_cid=6f4c9b380c&mc_eid=264b8befc2
+        )
+
+)
+
+2023-05-16T10:27:18+00:00 NOTICE abandoned_cart.success :: email: oficoman@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=58ecf5dc4378ee4af6d00ed3c0dd1bf4
+2023-05-16T10:27:18+00:00 NOTICE cart.member.updated :: Updated oficoman@gmail.com subscriber status to subscribed and language to en
+2023-05-16T10:28:41+00:00 NOTICE order.member.updated :: Updated oficoman@gmail.com subscriber status to subscribed and language to en
+2023-05-16T10:28:41+00:00 NOTICE order_submit.success :: addStoreOrder :: #63443 :: email: oficoman@gmail.com :: campaign id 6f4c9b380c :: landing site https://thebusinessyear.com/product/digital-economy/?utm_source=The+Business+Year&utm_campaign=6f4c9b380c-EMAIL_CAMPAIGN_2023_03_06_11_31&utm_medium=email&utm_term=0_-6f4c9b380c-%5BLIST_EMAIL_ID%5D&mc_cid=6f4c9b380c&mc_eid=264b8befc2 :: abandoned cart deleted [58ecf5dc4378ee4af6d00ed3c0dd1bf4]
+2023-05-16T11:35:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e36a9071aee4e02cdaeb396a051f1e0f
+2023-05-16T11:35:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63444
+2023-05-16T11:35:21+00:00 NOTICE debug :: Order ID 63444 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/product/digital-economy/
+        )
+
+)
+
+2023-05-16T11:35:41+00:00 NOTICE abandoned_cart.success :: email: freddieneve@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=e36a9071aee4e02cdaeb396a051f1e0f
+2023-05-16T11:35:42+00:00 NOTICE cart.member.updated :: Updated freddieneve@gmail.com subscriber status to pending and language to en
+2023-05-16T11:37:01+00:00 NOTICE order.member.updated :: Updated freddieneve@gmail.com subscriber status to pending and language to en
+2023-05-16T11:37:01+00:00 NOTICE order_submit.success :: addStoreOrder :: #63444 :: email: freddieneve@gmail.com :: landing site https://thebusinessyear.com/product/digital-economy/ :: abandoned cart deleted [e36a9071aee4e02cdaeb396a051f1e0f]

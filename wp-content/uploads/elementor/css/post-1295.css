@@ -1,0 +1,24 @@
+.elementor-1295 .elementor-element.elementor-element-c22c7ee > .elementor-container{max-width:1280px;}.elementor-1295 .elementor-element.elementor-element-c22c7ee{padding:80px 15px 120px 15px;}.elementor-1295 .elementor-element.elementor-element-9c96cc5 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-1295 .elementor-element.elementor-element-f473fb5 .elementor-heading-title{color:#000000;font-family:"General sans Medium", Sans-serif;font-size:44px;font-weight:600;line-height:59.4px;}.elementor-1295 .elementor-element.elementor-element-59a3978 > .elementor-container{max-width:1280px;}.elementor-1295 .elementor-element.elementor-element-59a3978{margin-top:0px;margin-bottom:0px;}.elementor-1295 .elementor-element.elementor-element-0c90a2e{text-align:left;}.elementor-1295 .elementor-element.elementor-element-6221cf0 > .elementor-element-populated{padding:0px 0px 0px 40px;}.elementor-1295 .elementor-element.elementor-element-1e85586{color:#000000;font-family:"General sans Regular", Sans-serif;font-size:20px;font-weight:400;line-height:32px;}@media(min-width:768px){.elementor-1295 .elementor-element.elementor-element-b89e62a{width:43.75%;}.elementor-1295 .elementor-element.elementor-element-6221cf0{width:56.25%;}}@media(max-width:1024px){.elementor-1295 .elementor-element.elementor-element-c22c7ee{padding:60px 15px 80px 15px;}.elementor-1295 .elementor-element.elementor-element-6221cf0 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px;}.elementor-1295 .elementor-element.elementor-element-6221cf0 > .elementor-element-populated{padding:0px 0px 0px 20px;}.elementor-1295 .elementor-element.elementor-element-1e85586{font-size:17px;}}@media(max-width:767px){.elementor-1295 .elementor-element.elementor-element-c22c7ee{padding:40px 15px 40px 15px;}.elementor-1295 .elementor-element.elementor-element-6221cf0 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px;}.elementor-1295 .elementor-element.elementor-element-6221cf0 > .elementor-element-populated{margin:20px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-1295 .elementor-element.elementor-element-1e85586{font-size:16px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'General sans Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.eot');
+	src: url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.woff2') format('woff2'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.woff') format('woff'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Medium.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'General sans Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Regular.eot');
+	src: url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Regular.woff2') format('woff2'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Regular.woff') format('woff'),
+		url('https://www.thebusinessyear.com/wp-content/uploads/2022/06/GeneralSans-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

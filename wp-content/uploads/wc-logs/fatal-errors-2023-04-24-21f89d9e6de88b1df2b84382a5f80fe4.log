@@ -1,0 +1,10 @@
+2023-04-24T14:29:47+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /home/thebusi4/public_html/wp-content/themes/hello-theme-child/tribe-events/single-event.php:80
+Stack trace:
+#0 /home/thebusi4/public_html/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php(42): include()
+#1 /home/thebusi4/public_html/wp-content/plugins/the-events-calendar/src/Tribe/Views/V2/Template_Bootstrap.php(153): tribe_get_view('single-event')
+#2 /home/thebusi4/public_html/wp-content/plugins/the-events-calendar/src/Tribe/Views/V2/Template_Bootstrap.php(234): Tribe\Events\Views\V2\Template_Bootstrap->get_v1_single_event_html()
+#3 /home/thebusi4/public_html/wp-content/plugins/the-events-calendar/src/views/v2/default-template.php(19): Tribe\Events\Views\V2\Template_Bootstrap->get_view_html()
+#4 /home/thebusi4/public_html/wp-includes/template-loader.php(106): include('/home/thebusi4/...')
+#5 /home/thebusi4/public_html/wp-blog-header.php(19): require_once('/home/thebusi4/...')
+#6 /home/thebusi4/public_html/index.php(17 in /home/thebusi4/public_html/wp-content/themes/hello-theme-child/tribe-events/single-event.php on line 80
+

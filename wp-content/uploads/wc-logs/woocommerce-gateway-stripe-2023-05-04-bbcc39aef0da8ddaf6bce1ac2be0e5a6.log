@@ -1,0 +1,381 @@
+2023-05-04T00:22:08+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T00:22:09+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T02:23:04+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T02:30:01+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-05-04T02:30:01+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-05-04T04:23:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T04:23:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T04:23:06+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T06:23:38+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T08:23:41+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T08:23:41+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T08:23:41+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T10:23:43+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T12:23:55+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T14:24:37+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T15:21:12+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-04T15:22:42+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+customers request: Array
+(
+    [email] => mathieu.vanvarenberg@havrico.be
+    [description] => Name: Mathieu Van Varenberg, Guest
+    [name] => Mathieu Van Varenberg
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-04T15:22:43+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N43y1IklOUlCnej1aD5ZGVI request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63171
+    [description] => The Business Year - Order 63171
+    [customer] => cus_NpjS1ZXuAwPQ2P
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Mathieu Van Varenberg
+            [customer_email] => mathieu.vanvarenberg@havrico.be
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63171
+            [order_key] => wc_order_25eqonADMNDGl
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-04T15:22:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Begin processing UPE redirect payment for order 63171 for the amount of 39.00
+====End Log====
+
+
+2023-05-04T15:22:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+payment_intents/pi_3N43y1IklOUlCnej1aD5ZGVI?expand[]=payment_method
+====End Log====
+
+
+2023-05-04T15:22:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe PaymentIntent pi_3N43y1IklOUlCnej1aD5ZGVI succeeded for order 63171
+====End Log====
+
+
+2023-05-04T15:22:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Could not find order via charge ID: ch_3N43y1IklOUlCnej1KRBq4pg
+====End Log====
+
+
+2023-05-04T15:22:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3N43y1IklOUlCnej1KRBq4pg
+    [object] => charge
+    [amount] => 3900
+    [amount_captured] => 3900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3N43y1IklOUlCnej1dobvoMJ
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => Kraainem
+                    [country] => BE
+                    [line1] => Tulpenstraat 29
+                    [line2] => -
+                    [postal_code] => 1950
+                    [state] => -
+                )
+
+            [email] => mathieu.vanvarenberg@havrico.be
+            [name] => Mathieu Van Varenberg
+            [phone] => +32 475 95 86 53
+        )
+
+    [calculated_statement_descriptor] => THEBSSNSYR* #63171
+    [captured] => 1
+    [created] => 1683213764
+    [currency] => usd
+    [customer] => cus_NpjS1ZXuAwPQ2P
+    [description] => The Business Year - Order 63171
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_balance_transaction] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 1
+    [metadata] => stdClass Object
+        (
+            [customer_email] => mathieu.vanvarenberg@havrico.be
+            [customer_name] => Mathieu Van Varenberg
+            [order_id] => 63171
+            [order_key] => wc_order_25eqonADMNDGl
+            [payment_type] => single
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3N43y1IklOUlCnej1aD5ZGVI
+    [payment_method] => pm_1N43zTIklOUlCnejieY6GJDx
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => unavailable
+                            [address_postal_code_check] => unavailable
+                            [cvc_check] => pass
+                        )
+
+                    [country] => BE
+                    [exp_month] => 2
+                    [exp_year] => 2024
+                    [fingerprint] => CKZZSaEi59Ov1jWq
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 5352
+                    [mandate] => 
+                    [network] => visa
+                    [network_token] => stdClass Object
+                        (
+                            [used] => 
+                        )
+
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => mathieu.vanvarenberg@havrico.be
+    [receipt_number] => 1680-1776
+    [receipt_url] => https://pay.stripe.com/receipts/payment/CAcQARoXChVhY2N0XzFMbzdzOUlrbE9VbENuZWooxpvPogYyBjHdpxsWCDosFsDN4E_8HLDU0b5OLwerwe5qao9SIfWOYAPYtTyOulsKh28RbIFI3f_OgS0
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3N43y1IklOUlCnej1KRBq4pg/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => 
+    [source_transfer] => 
+    [statement_descriptor] => thebssnsyr* #63171
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2023-05-04T15:22:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+balance/history/txn_3N43y1IklOUlCnej1dobvoMJ
+====End Log====
+
+
+2023-05-04T16:24:43+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T16:24:43+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T18:24:46+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T20:24:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-04T22:24:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+

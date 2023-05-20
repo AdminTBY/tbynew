@@ -1,0 +1,429 @@
+2023-05-10T00:43:56+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T02:44:23+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T04:45:13+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T05:37:07+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T07:37:23+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T09:13:05+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-10T09:14:39+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+customers request: Array
+(
+    [email] => pablomatosas@gmail.com
+    [description] => Name: Pablo Matosas, Guest
+    [name] => Pablo Matosas
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-10T09:14:39+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N6953IklOUlCnej1GP5Gkny request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63392
+    [description] => The Business Year - Order 63392
+    [customer] => cus_NrssmW8NIyGmoB
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Pablo Matosas
+            [customer_email] => pablomatosas@gmail.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63392
+            [order_key] => wc_order_uHkgg81sWL7r0
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-10T09:14:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Begin processing UPE redirect payment for order 63392 for the amount of 39.00
+====End Log====
+
+
+2023-05-10T09:14:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N6953IklOUlCnej1GP5Gkny?expand[]=payment_method
+====End Log====
+
+
+2023-05-10T09:14:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Could not find order via charge ID: ch_3N6953IklOUlCnej1qEYQNPT
+====End Log====
+
+
+2023-05-10T09:14:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Stripe PaymentIntent pi_3N6953IklOUlCnej1GP5Gkny succeeded for order 63392
+====End Log====
+
+
+2023-05-10T09:14:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Processing response: stdClass Object
+(
+    [id] => ch_3N6953IklOUlCnej1qEYQNPT
+    [object] => charge
+    [amount] => 3900
+    [amount_captured] => 3900
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [application_fee_amount] => 
+    [balance_transaction] => txn_3N6953IklOUlCnej1nJISUWL
+    [billing_details] => stdClass Object
+        (
+            [address] => stdClass Object
+                (
+                    [city] => Barcelona
+                    [country] => ES
+                    [line1] => Via Augusta 
+                    [line2] => -
+                    [postal_code] => 08021
+                    [state] => B
+                )
+
+            [email] => pablomatosas@gmail.com
+            [name] => Pablo Matosas
+            [phone] => 0034 687521711
+        )
+
+    [calculated_statement_descriptor] => THEBSSNSYR* #63392
+    [captured] => 1
+    [created] => 1683710081
+    [currency] => usd
+    [customer] => cus_NrssmW8NIyGmoB
+    [description] => The Business Year - Order 63392
+    [destination] => 
+    [dispute] => 
+    [disputed] => 
+    [failure_balance_transaction] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 1
+    [metadata] => stdClass Object
+        (
+            [customer_email] => pablomatosas@gmail.com
+            [customer_name] => Pablo Matosas
+            [order_id] => 63392
+            [order_key] => wc_order_uHkgg81sWL7r0
+            [payment_type] => single
+            [site_url] => https://thebusinessyear.com
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [payment_intent] => pi_3N6953IklOUlCnej1GP5Gkny
+    [payment_method] => pm_1N696aIklOUlCnej8LPmcbkJ
+    [payment_method_details] => stdClass Object
+        (
+            [card] => stdClass Object
+                (
+                    [brand] => mastercard
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => unavailable
+                            [address_postal_code_check] => unavailable
+                            [cvc_check] => pass
+                        )
+
+                    [country] => ES
+                    [exp_month] => 1
+                    [exp_year] => 2027
+                    [fingerprint] => pCL3nKmik6dqlIQ6
+                    [funding] => credit
+                    [installments] => 
+                    [last4] => 9036
+                    [mandate] => 
+                    [network] => mastercard
+                    [network_token] => stdClass Object
+                        (
+                            [used] => 
+                        )
+
+                    [three_d_secure] => 
+                    [wallet] => 
+                )
+
+            [type] => card
+        )
+
+    [receipt_email] => pablomatosas@gmail.com
+    [receipt_number] => 1682-8647
+    [receipt_url] => https://pay.stripe.com/receipts/payment/CAcQARoXChVhY2N0XzFMbzdzOUlrbE9VbENuZWoog8HtogYyBkpldizHjTosFrz37XG0f5-hW_zB1H7PxSG04aJsR5aEQUBGVDpfO9cNN_5l8eZRFIZyGKk
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_3N6953IklOUlCnej1qEYQNPT/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => 
+    [source_transfer] => 
+    [statement_descriptor] => thebssnsyr* #63392
+    [statement_descriptor_suffix] => 
+    [status] => succeeded
+    [transfer_data] => 
+    [transfer_group] => 
+)
+
+====End Log====
+
+
+2023-05-10T09:14:43+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+balance/history/txn_3N6953IklOUlCnej1nJISUWL
+====End Log====
+
+
+2023-05-10T09:37:25+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T11:37:35+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T13:07:53+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 3900
+    [currency] => usd
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => automatic
+)
+
+====End Log====
+
+
+2023-05-10T13:09:02+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+customers request: Array
+(
+    [email] => lmeintjes@proven-sa.com
+    [description] => Name: Leandra Meintjes, Username: leandra.meintjes
+    [name] => Leandra Meintjes
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+)
+
+====End Log====
+
+
+2023-05-10T13:09:02+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_intents/pi_3N6CkHIklOUlCnej0boB78ZG request: Array
+(
+    [amount] => 3900
+    [currency] => USD
+    [statement_descriptor] => thebssnsyr* #63406
+    [description] => The Business Year - Order 63406
+    [customer] => cus_NrweemnglPV59z
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [metadata] => Array
+        (
+            [customer_name] => Leandra Meintjes
+            [customer_email] => lmeintjes@proven-sa.com
+            [site_url] => https://thebusinessyear.com
+            [order_id] => 63406
+            [order_key] => wc_order_KXzUWywEDMpPg
+            [payment_type] => single
+        )
+
+)
+
+====End Log====
+
+
+2023-05-10T13:09:06+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Stripe PaymentIntent pi_3N6CkHIklOUlCnej0boB78ZG succeeded for order 63406
+====End Log====
+
+
+2023-05-10T13:09:06+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+Could not find order via charge ID: ch_3N6CkHIklOUlCnej0MbpZjvb
+====End Log====
+
+
+2023-05-10T13:13:17+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_NrweemnglPV59z
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2023-05-10T13:37:49+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T15:37:56+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T17:38:04+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T19:38:06+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T21:38:07+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-05-10T23:38:08+00:00 DEBUG 
+====Stripe Version: 7.4.0====
+====Start Log====
+account
+====End Log====
+
+

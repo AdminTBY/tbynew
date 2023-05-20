@@ -1,0 +1,61 @@
+2023-05-15T21:55:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1b2bcaf2a04f2f1f35d62f7f5398185f
+2023-05-15T21:55:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63439
+2023-05-15T21:55:51+00:00 NOTICE debug :: Order ID 63439 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/product/saudi-arabia-2022-23/
+        )
+
+)
+
+2023-05-15T21:56:05+00:00 NOTICE abandoned_cart.success :: email: t0500605004@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=1b2bcaf2a04f2f1f35d62f7f5398185f
+2023-05-15T21:56:05+00:00 NOTICE cart.member.updated :: Updated t0500605004@gmail.com subscriber status to pending and language to en
+2023-05-15T21:57:29+00:00 NOTICE order.member.updated :: Updated t0500605004@gmail.com subscriber status to subscribed and language to en
+2023-05-15T21:57:29+00:00 NOTICE order_submit.success :: addStoreOrder :: #63439 :: email: t0500605004@gmail.com :: landing site https://thebusinessyear.com/product/saudi-arabia-2022-23/ :: abandoned cart deleted [1b2bcaf2a04f2f1f35d62f7f5398185f]
+2023-05-15T21:58:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1b2bcaf2a04f2f1f35d62f7f5398185f
+2023-05-15T21:59:22+00:00 NOTICE abandoned_cart.success :: email: t0500605004@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=1b2bcaf2a04f2f1f35d62f7f5398185f
+2023-05-15T22:00:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63440
+2023-05-15T22:00:10+00:00 NOTICE debug :: Order ID 63440 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/checkout/order-received/63439/?key=wc_order_7vgWkuQhy4jIm
+        )
+
+)
+
+2023-05-15T22:02:24+00:00 NOTICE webhook :: Subscriber Sync :: subscribe :: t0500605004@gmail.com :: Array
+(
+    [subscribed] => 1
+    [user_id] => 42771
+)
+
+2023-05-15T22:02:24+00:00 NOTICE order.member.updated :: Updated t0500605004@gmail.com subscriber status to subscribed and language to en
+2023-05-15T22:02:24+00:00 NOTICE order_submit.success :: addStoreOrder :: #63440 :: email: t0500605004@gmail.com :: landing site https://thebusinessyear.com/checkout/order-received/63439/?key=wc_order_7vgWkuQhy4jIm :: abandoned cart deleted [1b2bcaf2a04f2f1f35d62f7f5398185f]
+2023-05-15T22:10:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1b2bcaf2a04f2f1f35d62f7f5398185f
+2023-05-15T22:11:16+00:00 NOTICE abandoned_cart.success :: email: t0500605004@gmail.com :: checkout_url: https://thebusinessyear.com/checkout/?mc_cart_id=1b2bcaf2a04f2f1f35d62f7f5398185f
+2023-05-15T22:11:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 63441
+2023-05-15T22:11:18+00:00 NOTICE debug :: Order ID 63441 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://thebusinessyear.com/checkout/order-received/63440/?key=wc_order_Qr0KyRxxoJDG8
+        )
+
+)
+
+2023-05-15T22:13:20+00:00 NOTICE order.member.updated :: Updated t0500605004@gmail.com subscriber status to subscribed and language to en
+2023-05-15T22:13:20+00:00 NOTICE order_submit.success :: addStoreOrder :: #63441 :: email: t0500605004@gmail.com :: landing site https://thebusinessyear.com/checkout/order-received/63440/?key=wc_order_Qr0KyRxxoJDG8 :: abandoned cart deleted [1b2bcaf2a04f2f1f35d62f7f5398185f]
+2023-05-15T22:13:20+00:00 NOTICE webhook :: Subscriber Sync :: subscribe :: t0500605004@gmail.com :: Array
+(
+    [subscribed] => 1
+    [user_id] => 42771
+)
+
